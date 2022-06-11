@@ -1,0 +1,193 @@
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_CommandLong
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_OnboardComputerStatus
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_HomePosition
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_LogEntry
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_CommandCode
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_BatteryStatus
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ActuatorControl
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_CommandTriggerInterval
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_WaypointClear
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_CommandTriggerControl
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_MessageInterval
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_FileList
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_RTKBaseline
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_Thrust
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ExtendedState
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_GPSRTK
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_FileRemoveDir
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_Waypoint
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_GPSRAW
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_FileMakeDir
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_CommandInt
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_FileWrite
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_FileRemove
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_FileOpen
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_LogRequestData
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_GlobalPositionTarget
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_WaypointPull
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ESCInfoItem
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_FileEntry
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ADSBVehicle
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_FileRename
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_FileClose
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_RadioStatus
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_Param
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_HilGPS
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_CommandTOL
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_CommandHome
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_LogRequestEnd
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_Vibration
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_RCIn
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_VehicleInfo
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_HilActuatorControls
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ESCStatus
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_HilControls
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_FileTruncate
+[  0%] Built target geographic_msgs_generate_messages_cpp
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_PositionTarget
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_WaypointReached
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_MountControl
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_CamIMUStamp
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_StatusText
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_SetMode
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_Trajectory
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_Mavlink
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_DebugValue
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_LandingTarget
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ParamPush
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_WaypointList
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_OpticalFlowRad
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_LogData
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_StreamRate
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_MountConfigure
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ParamPull
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ESCStatusItem
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_State
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_FileChecksum
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_AttitudeTarget
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ESCInfo
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ParamGet
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ParamSet
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ParamValue
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_WheelOdomStamped
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_TimesyncStatus
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_CompanionProcessStatus
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_CommandVtolTransition
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_PlayTuneV2
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_EstimatorStatus
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_CommandBool
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_SetMavFrame
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_RCOut
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_HilStateQuaternion
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_VFR_HUD
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_VehicleInfoGet
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_LogRequestList
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_RTCM
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_OverrideRCIn
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_WaypointSetCurrent
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_WaypointPush
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_ManualControl
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_Altitude
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_FileRead
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target _mavros_msgs_generate_messages_check_deps_HilSensor
+[  0%] Built target geographic_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target geographic_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geographic_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geographic_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] [34m[1mGenerating C++ code from mavros_msgs/CommandTOL.srv[0m
+[ 19%] Built target mavros_msgs_generate_messages_lisp
+[ 39%] Built target mavros_msgs_generate_messages_py
+[ 60%] Built target mavros_msgs_generate_messages_nodejs
+[ 60%] [34m[1mGenerating C++ code from mavros_msgs/ParamSet.srv[0m
+[ 61%] [34m[1mGenerating EusLisp code from mavros_msgs/Trajectory.msg[0m
+[ 61%] [34m[1mGenerating C++ code from mavros_msgs/FileRemove.srv[0m
+[ 61%] [34m[1mGenerating EusLisp code from mavros_msgs/RCIn.msg[0m
+[ 61%] [34m[1mGenerating EusLisp code from mavros_msgs/HilGPS.msg[0m
+[ 62%] [34m[1mGenerating C++ code from mavros_msgs/MountConfigure.srv[0m
+[ 62%] [34m[1mGenerating C++ code from mavros_msgs/CommandVtolTransition.srv[0m
+[ 62%] [34m[1mGenerating EusLisp code from mavros_msgs/ParamValue.msg[0m
+[ 62%] [34m[1mGenerating C++ code from mavros_msgs/FileMakeDir.srv[0m
+[ 62%] [34m[1mGenerating EusLisp code from mavros_msgs/Altitude.msg[0m
+[ 63%] [34m[1mGenerating EusLisp code from mavros_msgs/FileEntry.msg[0m
+[ 63%] [34m[1mGenerating C++ code from mavros_msgs/FileChecksum.srv[0m
+[ 63%] [34m[1mGenerating C++ code from mavros_msgs/FileRemoveDir.srv[0m
+[ 63%] [34m[1mGenerating EusLisp code from mavros_msgs/LogData.msg[0m
+[ 64%] [34m[1mGenerating C++ code from mavros_msgs/SetMavFrame.srv[0m
+[ 64%] [34m[1mGenerating EusLisp code from mavros_msgs/OverrideRCIn.msg[0m
+[ 64%] [34m[1mGenerating EusLisp code from mavros_msgs/OpticalFlowRad.msg[0m
+[ 64%] [34m[1mGenerating C++ code from mavros_msgs/LogRequestList.srv[0m
+[ 64%] [34m[1mGenerating C++ code from mavros_msgs/CommandLong.srv[0m
+[ 65%] [34m[1mGenerating EusLisp code from mavros_msgs/MountControl.msg[0m
+[ 65%] [34m[1mGenerating C++ code from mavros_msgs/FileRead.srv[0m
+[ 65%] [34m[1mGenerating EusLisp code from mavros_msgs/ADSBVehicle.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from mavros_msgs/CamIMUStamp.msg[0m
+[ 65%] [34m[1mGenerating C++ code from mavros_msgs/StreamRate.srv[0m
+[ 66%] [34m[1mGenerating C++ code from mavros_msgs/VehicleInfoGet.srv[0m
+[ 66%] [34m[1mGenerating C++ code from mavros_msgs/FileRename.srv[0m
+[ 66%] [34m[1mGenerating EusLisp code from mavros_msgs/FileOpen.srv[0m
+[ 66%] [34m[1mGenerating EusLisp code from mavros_msgs/ParamPull.srv[0m
+[ 67%] [34m[1mGenerating EusLisp code from mavros_msgs/ParamGet.srv[0m
+[ 67%] [34m[1mGenerating C++ code from mavros_msgs/SetMode.srv[0m
+[ 67%] [34m[1mGenerating C++ code from mavros_msgs/MessageInterval.srv[0m
+[ 68%] [34m[1mGenerating C++ code from mavros_msgs/CommandBool.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from mavros_msgs/CommandInt.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from mavros_msgs/FileTruncate.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from mavros_msgs/FileWrite.srv[0m
+[ 68%] [34m[1mGenerating C++ code from mavros_msgs/FileList.srv[0m
+[ 68%] [34m[1mGenerating C++ code from mavros_msgs/CommandTriggerControl.srv[0m
+[ 68%] [34m[1mGenerating C++ code from mavros_msgs/LogRequestEnd.srv[0m
+[ 68%] [34m[1mGenerating EusLisp code from mavros_msgs/CommandHome.srv[0m
+[ 69%] [34m[1mGenerating EusLisp code from mavros_msgs/WaypointPull.srv[0m
+[ 69%] [34m[1mGenerating EusLisp code from mavros_msgs/ParamPush.srv[0m
+[ 69%] [34m[1mGenerating C++ code from mavros_msgs/FileClose.srv[0m
+[ 70%] [34m[1mGenerating C++ code from mavros_msgs/CommandTriggerInterval.srv[0m
+[ 70%] [34m[1mGenerating C++ code from mavros_msgs/WaypointClear.srv[0m
+[ 70%] [34m[1mGenerating EusLisp code from mavros_msgs/LogRequestData.srv[0m
+[ 70%] [34m[1mGenerating EusLisp code from mavros_msgs/CommandTOL.srv[0m
+[ 71%] [34m[1mGenerating EusLisp code from mavros_msgs/ParamSet.srv[0m
+[ 71%] [34m[1mGenerating C++ code from mavros_msgs/WaypointPush.srv[0m
+[ 71%] [34m[1mGenerating C++ code from mavros_msgs/WaypointSetCurrent.srv[0m
+[ 71%] [34m[1mGenerating EusLisp code from mavros_msgs/FileRemove.srv[0m
+[ 71%] [34m[1mGenerating EusLisp code from mavros_msgs/MountConfigure.srv[0m
+[ 71%] [34m[1mGenerating EusLisp code from mavros_msgs/CommandVtolTransition.srv[0m
+[ 71%] [34m[1mGenerating EusLisp code from mavros_msgs/FileMakeDir.srv[0m
+[ 72%] [34m[1mGenerating EusLisp code from mavros_msgs/FileChecksum.srv[0m
+[ 72%] [34m[1mGenerating EusLisp code from mavros_msgs/FileRemoveDir.srv[0m
+[ 72%] [34m[1mGenerating EusLisp code from mavros_msgs/SetMavFrame.srv[0m
+[ 86%] Built target mavros_msgs_generate_messages_cpp
+[ 86%] [34m[1mGenerating EusLisp code from mavros_msgs/LogRequestList.srv[0m
+[ 86%] [34m[1mGenerating EusLisp code from mavros_msgs/CommandLong.srv[0m
+[ 87%] [34m[1mGenerating EusLisp code from mavros_msgs/FileRead.srv[0m
+[ 87%] [34m[1mGenerating EusLisp code from mavros_msgs/StreamRate.srv[0m
+[ 87%] [34m[1mGenerating EusLisp code from mavros_msgs/VehicleInfoGet.srv[0m
+[ 87%] [34m[1mGenerating EusLisp code from mavros_msgs/FileRename.srv[0m
+[ 88%] [34m[1mGenerating EusLisp code from mavros_msgs/SetMode.srv[0m
+[ 88%] [34m[1mGenerating EusLisp code from mavros_msgs/MessageInterval.srv[0m
+[ 88%] [34m[1mGenerating EusLisp code from mavros_msgs/CommandBool.srv[0m
+[ 88%] [34m[1mGenerating EusLisp code from mavros_msgs/FileList.srv[0m
+[ 88%] [34m[1mGenerating EusLisp code from mavros_msgs/CommandTriggerControl.srv[0m
+[ 89%] [34m[1mGenerating EusLisp code from mavros_msgs/LogRequestEnd.srv[0m
+[ 89%] [34m[1mGenerating EusLisp code from mavros_msgs/FileClose.srv[0m
+[ 89%] [34m[1mGenerating EusLisp code from mavros_msgs/CommandTriggerInterval.srv[0m
+[ 89%] [34m[1mGenerating EusLisp code from mavros_msgs/WaypointClear.srv[0m
+[ 89%] [34m[1mGenerating EusLisp code from mavros_msgs/WaypointPush.srv[0m
+[ 90%] [34m[1mGenerating EusLisp code from mavros_msgs/WaypointSetCurrent.srv[0m
+[ 90%] [34m[1mGenerating EusLisp manifest code for mavros_msgs[0m
+[100%] Built target mavros_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target mavros_msgs_generate_messages[0m
+[100%] Built target mavros_msgs_generate_messages
