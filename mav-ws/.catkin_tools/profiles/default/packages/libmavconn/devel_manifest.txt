@@ -1,0 +1,7 @@
+mavros/libmavconn
+/home/mmorgan/mav-ws/devel/.private/libmavconn/cmake.lock /home/mmorgan/mav-ws/devel/./cmake.lock
+/home/mmorgan/mav-ws/devel/.private/libmavconn/lib/libmavconn.so /home/mmorgan/mav-ws/devel/lib/libmavconn.so
+/home/mmorgan/mav-ws/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc /home/mmorgan/mav-ws/devel/lib/pkgconfig/libmavconn.pc
+/home/mmorgan/mav-ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake /home/mmorgan/mav-ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+/home/mmorgan/mav-ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake /home/mmorgan/mav-ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+/home/mmorgan/mav-ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake /home/mmorgan/mav-ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake

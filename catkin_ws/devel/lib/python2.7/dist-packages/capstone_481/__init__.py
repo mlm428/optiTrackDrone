@@ -1,1 +1,0 @@
-/home/minidrone/catkin_ws/devel/.private/capstone_481/lib/python2.7/dist-packages/capstone_481/__init__.py

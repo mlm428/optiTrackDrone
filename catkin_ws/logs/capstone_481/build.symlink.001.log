@@ -1,8 +1,0 @@
-Symlinking /home/minidrone/catkin_ws/devel/share/capstone_481/cmake/capstone_481-msg-paths.cmake
-Symlinking /home/minidrone/catkin_ws/devel/share/capstone_481/cmake/capstone_481-msg-extras.cmake
-Symlinking /home/minidrone/catkin_ws/devel/share/capstone_481/cmake/capstone_481Config-version.cmake
-Symlinking /home/minidrone/catkin_ws/devel/share/capstone_481/cmake/capstone_481Config.cmake
-Symlinking /home/minidrone/catkin_ws/devel/share/roseus/ros/capstone_481/manifest.l
-Symlinking /home/minidrone/catkin_ws/devel/lib/pkgconfig/capstone_481.pc
-Symlinking /home/minidrone/catkin_ws/devel/lib/capstone_481/takeoff_test
-Symlinking /home/minidrone/catkin_ws/devel/lib/python2.7/dist-packages/capstone_481/__init__.py

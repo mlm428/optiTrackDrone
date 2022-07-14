@@ -1,1 +1,0 @@
-/home/minidrone/catkin_ws/devel/.private/capstone_481/lib/pkgconfig/capstone_481.pc

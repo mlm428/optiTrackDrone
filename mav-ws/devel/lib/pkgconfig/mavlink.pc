@@ -1,0 +1,8 @@
+prefix=/home/mmorgan/mav-ws/devel
+exec_prefix=/home/mmorgan/mav-ws/devel
+includedir=${prefix}/include
+
+Name: mavlink
+Description: MAVLink micro air vehicle marshalling / communication library
+Version: 2022.3.3
+Cflags: -I${includedir}

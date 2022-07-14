@@ -1,0 +1,10 @@
+mavros/mavros
+/home/mmorgan/mav-ws/devel/.private/mavros/cmake.lock /home/mmorgan/mav-ws/devel/./cmake.lock
+/home/mmorgan/mav-ws/devel/.private/mavros/lib/libmavros.so /home/mmorgan/mav-ws/devel/lib/libmavros.so
+/home/mmorgan/mav-ws/devel/.private/mavros/lib/libmavros_plugins.so /home/mmorgan/mav-ws/devel/lib/libmavros_plugins.so
+/home/mmorgan/mav-ws/devel/.private/mavros/lib/pkgconfig/mavros.pc /home/mmorgan/mav-ws/devel/lib/pkgconfig/mavros.pc
+/home/mmorgan/mav-ws/devel/.private/mavros/lib/mavros/mavros_node /home/mmorgan/mav-ws/devel/lib/mavros/mavros_node
+/home/mmorgan/mav-ws/devel/.private/mavros/lib/mavros/gcs_bridge /home/mmorgan/mav-ws/devel/lib/mavros/gcs_bridge
+/home/mmorgan/mav-ws/devel/.private/mavros/lib/python2.7/dist-packages/mavros/__init__.py /home/mmorgan/mav-ws/devel/lib/python2.7/dist-packages/mavros/__init__.py
+/home/mmorgan/mav-ws/devel/.private/mavros/share/mavros/cmake/mavrosConfig-version.cmake /home/mmorgan/mav-ws/devel/share/mavros/cmake/mavrosConfig-version.cmake
+/home/mmorgan/mav-ws/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake /home/mmorgan/mav-ws/devel/share/mavros/cmake/mavrosConfig.cmake

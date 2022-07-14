@@ -1,0 +1,6 @@
+Linked: (/home/mmorgan/mav-ws/devel/.private/mavros_extras/lib/libmavros_extras.so, /home/mmorgan/mav-ws/devel/lib/libmavros_extras.so)
+Linked: (/home/mmorgan/mav-ws/devel/.private/mavros_extras/lib/mavros_extras/visualization, /home/mmorgan/mav-ws/devel/lib/mavros_extras/visualization)
+Linked: (/home/mmorgan/mav-ws/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher, /home/mmorgan/mav-ws/devel/lib/mavros_extras/servo_state_publisher)
+Linked: (/home/mmorgan/mav-ws/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc, /home/mmorgan/mav-ws/devel/lib/pkgconfig/mavros_extras.pc)
+Linked: (/home/mmorgan/mav-ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake, /home/mmorgan/mav-ws/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake)
+Linked: (/home/mmorgan/mav-ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake, /home/mmorgan/mav-ws/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake)
