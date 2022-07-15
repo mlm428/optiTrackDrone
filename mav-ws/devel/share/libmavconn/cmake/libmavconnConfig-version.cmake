@@ -1,0 +1,1 @@
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake
