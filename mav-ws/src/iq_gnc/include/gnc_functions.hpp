@@ -309,8 +309,11 @@ int takeoff(float takeoff_alt)
 	while (!current_state_g.armed && !arm_request.response.success && ros::ok())
 	{
 		ros::Duration(.1).sleep();
+		ROS_INFO("z_Sleeping")
 		arming_client.call(arm_request);
+		ROS_INFO("z_Arm Request")
 		local_pos_pub.publish(waypoint_g);
+		ROS_INFO("z_Waypoint Set")
 	}
 	if(arm_request.response.success)
 	{
