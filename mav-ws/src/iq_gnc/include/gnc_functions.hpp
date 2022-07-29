@@ -327,14 +327,13 @@ int takeoff(float takeoff_alt)
 			ros::Duration(0.01).sleep();
 		}
 		if(current_state_g.armed)
-		{
+	{
 			ROS_INFO("Flight controller ARMED. Taking off");
-			break;
-		}else{
+	}else{
 			ROS_INFO("Error ARMING flight controller");
 			return -1;
-		}
 	}
+	
 /*
 	// arming
 	ROS_INFO("Arming drone");
