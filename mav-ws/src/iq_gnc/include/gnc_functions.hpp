@@ -302,6 +302,40 @@ int takeoff(float takeoff_alt)
 		ros::spinOnce();
 		ros::Duration(0.01).sleep();
 	}
+
+/*
+	ROS_INFO("Waiting for user to set mode to GUIDED");
+	while(ros::ok() && current_state_g.mode != "GUIDED")
+	{
+	    ros::spinOnce();
+	    ros::Duration(0.01).sleep();
+  	}
+  	if(current_state_g.mode == "GUIDED")
+	{
+		ROS_INFO("Mode set to GUIDED. Mission starting");
+		return 0;
+	}else{
+		ROS_INFO("Error starting mission!!");
+		return -1;	
+	}
+*/
+
+	ROS_INFO("Waiting for user to ARM flight controller");
+	while(ros::ok() && !current_state_g.armed)
+	{
+			ros::spinOnce();
+			ros::Duration(0.01).sleep();
+		}
+		if(current_state_g.armed)
+		{
+			ROS_INFO("Flight controller ARMED. Taking off");
+			break;
+		}else{
+			ROS_INFO("Error ARMING flight controller");
+			return -1;
+		}
+	}
+/*
 	// arming
 	ROS_INFO("Arming drone");
 	mavros_msgs::CommandBool arm_request;
@@ -323,7 +357,8 @@ int takeoff(float takeoff_alt)
 		ROS_INFO("Arming failed with %d", arm_request.response.success);
 		return -1;	
 	}
-	
+*/
+
 	//request takeoff
 	
 	mavros_msgs::CommandTOL srv_takeoff;
