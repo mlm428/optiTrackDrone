@@ -311,6 +311,7 @@ int takeoff(float takeoff_alt)
 	{
 		arming_client.call(arm_request);
 	  ROS_INFO("z_Arm Request");
+	  sleep(5);
 		local_pos_pub.publish(waypoint_g);
 		ROS_INFO("z_Waypoint Set");
 	}
