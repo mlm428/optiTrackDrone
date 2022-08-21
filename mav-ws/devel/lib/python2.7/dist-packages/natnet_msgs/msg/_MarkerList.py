@@ -1,0 +1,1 @@
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/natnet_msgs/lib/python2.7/dist-packages/natnet_msgs/msg/_MarkerList.py

@@ -1,0 +1,1 @@
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/natnet_msgs/share/natnet_msgs/cmake/natnet_msgs-msg-paths.cmake

@@ -1,0 +1,8 @@
+prefix=/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/natnet_ros
+
+Name: natnet_ros
+Description: Description of natnet_ros
+Version: 0.2.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy natnet_msgs

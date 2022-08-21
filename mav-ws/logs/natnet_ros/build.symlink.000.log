@@ -1,0 +1,3 @@
+Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/natnet_ros/cmake/natnet_rosConfig.cmake
+Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/natnet_ros/cmake/natnet_rosConfig-version.cmake
+Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/pkgconfig/natnet_ros.pc

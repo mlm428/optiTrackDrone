@@ -1,0 +1,5 @@
+natnet_ros/python_natnet
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/python_natnet/cmake.lock /home/minidrone/repos/optiTrackDrone/mav-ws/devel/./cmake.lock
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/python_natnet/share/python_natnet/cmake/python_natnetConfig-version.cmake /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/python_natnet/cmake/python_natnetConfig-version.cmake
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/python_natnet/share/python_natnet/cmake/python_natnetConfig.cmake /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/python_natnet/cmake/python_natnetConfig.cmake
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/python_natnet/lib/pkgconfig/python_natnet.pc /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/pkgconfig/python_natnet.pc

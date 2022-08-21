@@ -1,0 +1,8 @@
+prefix=/home/minidrone/repos/optiTrackDrone/mav-ws/install
+
+Name: python_natnet
+Description: Description of python_natnet
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

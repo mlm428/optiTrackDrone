@@ -9,6 +9,7 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros'
 export PYTHONPATH="/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"

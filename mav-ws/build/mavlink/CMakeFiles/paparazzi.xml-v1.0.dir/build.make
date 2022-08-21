@@ -60,7 +60,7 @@ include/v1.0/paparazzi/paparazzi.h: /home/minidrone/repos/optiTrackDrone/mav-ws/
 include/v1.0/paparazzi/paparazzi.h: /home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/message_definitions/v1.0/common.xml
 include/v1.0/paparazzi/paparazzi.h: /home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/pymavlink/tools/mavgen.py
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavlink/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating include/v1.0/paparazzi/paparazzi.h"
-	/usr/bin/env PYTHONPATH="/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink:/opt/ros/melodic/lib/python2.7/dist-packages" /usr/bin/python2 /home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/pymavlink/tools/mavgen.py --lang=C --wire-protocol=1.0 --output=include/v1.0 /home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/message_definitions/v1.0/paparazzi.xml
+	/usr/bin/env PYTHONPATH="/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink:/home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages" /usr/bin/python2 /home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/pymavlink/tools/mavgen.py --lang=C --wire-protocol=1.0 --output=include/v1.0 /home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/message_definitions/v1.0/paparazzi.xml
 
 paparazzi.xml-v1.0: CMakeFiles/paparazzi.xml-v1.0
 paparazzi.xml-v1.0: include/v1.0/paparazzi/paparazzi.h

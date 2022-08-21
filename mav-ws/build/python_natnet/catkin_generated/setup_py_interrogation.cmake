@@ -1,0 +1,7 @@
+set(python_natnet_SETUP_PY_SETUP_MODULE "distutils.core")
+set(python_natnet_SETUP_PY_VERSION "0.1.0")
+set(python_natnet_SETUP_PY_SCRIPTS "")
+set(python_natnet_SETUP_PY_PACKAGES "")
+set(python_natnet_SETUP_PY_PACKAGE_DIRS "")
+set(python_natnet_SETUP_PY_MODULES "")
+set(python_natnet_SETUP_PY_MODULE_DIRS "")
