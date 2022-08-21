@@ -1,6 +1,6 @@
 [35m[1mScanning dependencies of target mavros_sitl_test[0m
-[ 40%] [32mBuilding CXX object CMakeFiles/mavros_sitl_test.dir/sitl_test/lib/sitl_test.cpp.o[0m
 [ 40%] [32mBuilding CXX object CMakeFiles/mavros_sitl_test.dir/sitl_test/lib/pid_controller.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/mavros_sitl_test.dir/sitl_test/lib/sitl_test.cpp.o[0m
 [ 60%] [32m[1mLinking CXX shared library /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/test_mavros/lib/libmavros_sitl_test.so[0m
 [ 60%] Built target mavros_sitl_test
 [35m[1mScanning dependencies of target sitl_test_node[0m

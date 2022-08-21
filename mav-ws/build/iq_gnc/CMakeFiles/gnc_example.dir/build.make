@@ -60,15 +60,15 @@ include CMakeFiles/gnc_example.dir/flags.make
 CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.o: CMakeFiles/gnc_example.dir/flags.make
 CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.o: /home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/src/gnc_tutorial.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/minidrone/repos/optiTrackDrone/mav-ws/build/iq_gnc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.o"
-	/usr/lib/ccache/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.o -c /home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/src/gnc_tutorial.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.o -c /home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/src/gnc_tutorial.cpp
 
 CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.i"
-	/usr/lib/ccache/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/src/gnc_tutorial.cpp > CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/src/gnc_tutorial.cpp > CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.i
 
 CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.s"
-	/usr/lib/ccache/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/src/gnc_tutorial.cpp -o CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/src/gnc_tutorial.cpp -o CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.s
 
 CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.o.requires:
 
@@ -91,41 +91,41 @@ gnc_example_EXTERNAL_OBJECTS =
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.o
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: CMakeFiles/gnc_example.dir/build.make
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/libmavros.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libGeographic.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libGeographic.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/libdiagnostic_updater.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/libeigen_conversions.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/liborocos-kdl.so.1.4.0
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/libclass_loader.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/libPocoFoundation.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libdl.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libdl.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/libroslib.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/librospack.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libpython2.7.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libboost_program_options.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libtinyxml2.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libpython2.7.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libboost_program_options.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libtinyxml2.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/libtf2_ros.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/libactionlib.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/libmessage_filters.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/libroscpp.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libboost_filesystem.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/librosconsole.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/librosconsole_log4cxx.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/librosconsole_backend_interface.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/liblog4cxx.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libboost_regex.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/liblog4cxx.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libboost_regex.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/libxmlrpcpp.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/libtf2.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/libroscpp_serialization.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/librostime.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /opt/ros/melodic/lib/libcpp_common.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libboost_system.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libboost_thread.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libboost_chrono.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libboost_date_time.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libpthread.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libboost_system.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libboost_thread.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libboost_chrono.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libboost_date_time.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libboost_atomic.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libpthread.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: /usr/lib/aarch64-linux-gnu/libconsole_bridge.so.0.4
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example: CMakeFiles/gnc_example.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/minidrone/repos/optiTrackDrone/mav-ws/build/iq_gnc/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/iq_gnc/lib/iq_gnc/gnc_example"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/gnc_example.dir/link.txt --verbose=$(VERBOSE)

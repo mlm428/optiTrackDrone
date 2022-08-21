@@ -1,0 +1,1 @@
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/python_natnet/share/python_natnet/cmake/python_natnetConfig.cmake

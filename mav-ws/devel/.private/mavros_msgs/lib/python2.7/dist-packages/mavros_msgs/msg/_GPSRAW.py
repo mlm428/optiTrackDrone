@@ -183,8 +183,7 @@ string frame_id
     unpack serialized message in str into this message instance
     :param str: byte array of serialized message, ``str``
     """
-    if python3:
-      codecs.lookup_error("rosmsg").msg_type = self._type
+    codecs.lookup_error("rosmsg").msg_type = self._type
     try:
       if self.header is None:
         self.header = std_msgs.msg.Header()
@@ -237,8 +236,7 @@ string frame_id
     :param str: byte array of serialized message, ``str``
     :param numpy: numpy python module
     """
-    if python3:
-      codecs.lookup_error("rosmsg").msg_type = self._type
+    codecs.lookup_error("rosmsg").msg_type = self._type
     try:
       if self.header is None:
         self.header = std_msgs.msg.Header()

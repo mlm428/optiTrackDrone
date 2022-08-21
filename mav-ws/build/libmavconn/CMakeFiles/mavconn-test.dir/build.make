@@ -92,8 +92,8 @@ mavconn__test_EXTERNAL_OBJECTS =
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn/mavconn-test: CMakeFiles/mavconn-test.dir/build.make
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn/mavconn-test: gtest/googlemock/gtest/libgtest.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn/mavconn-test: /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn/mavconn-test: /usr/lib/x86_64-linux-gnu/libboost_system.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn/mavconn-test: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn/mavconn-test: /usr/lib/aarch64-linux-gnu/libboost_system.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn/mavconn-test: /usr/lib/aarch64-linux-gnu/libconsole_bridge.so.0.4
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn/mavconn-test: CMakeFiles/mavconn-test.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/minidrone/repos/optiTrackDrone/mav-ws/build/libmavconn/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn/mavconn-test"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mavconn-test.dir/link.txt --verbose=$(VERBOSE)

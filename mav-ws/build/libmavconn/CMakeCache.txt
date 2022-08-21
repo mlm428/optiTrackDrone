@@ -30,16 +30,16 @@ Boost_DIR:PATH=Boost_DIR-NOTFOUND
 Boost_INCLUDE_DIR:PATH=/usr/include
 
 //Boost library directory DEBUG
-Boost_LIBRARY_DIR_DEBUG:PATH=/usr/lib/x86_64-linux-gnu
+Boost_LIBRARY_DIR_DEBUG:PATH=/usr/lib/aarch64-linux-gnu
 
 //Boost library directory RELEASE
-Boost_LIBRARY_DIR_RELEASE:PATH=/usr/lib/x86_64-linux-gnu
+Boost_LIBRARY_DIR_RELEASE:PATH=/usr/lib/aarch64-linux-gnu
 
 //Boost system library (debug)
-Boost_SYSTEM_LIBRARY_DEBUG:FILEPATH=/usr/lib/x86_64-linux-gnu/libboost_system.so
+Boost_SYSTEM_LIBRARY_DEBUG:FILEPATH=/usr/lib/aarch64-linux-gnu/libboost_system.so
 
 //Boost system library (release)
-Boost_SYSTEM_LIBRARY_RELEASE:FILEPATH=/usr/lib/x86_64-linux-gnu/libboost_system.so
+Boost_SYSTEM_LIBRARY_RELEASE:FILEPATH=/usr/lib/aarch64-linux-gnu/libboost_system.so
 
 //catkin devel space
 CATKIN_DEVEL_PREFIX:PATH=/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn
@@ -267,13 +267,13 @@ PYTHON_EXECUTABLE:FILEPATH=/usr/bin/python2
 PYTHON_VERSION:STRING=2
 
 //Path to a library.
-RT_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/librt.so
+RT_LIBRARY:FILEPATH=/usr/lib/aarch64-linux-gnu/librt.so
 
 //Enable debian style python package layout
 SETUPTOOLS_DEB_LAYOUT:BOOL=ON
 
 //Name of the computer/site where compile is being run
-SITE:STRING=MSI
+SITE:STRING=odroidc4
 
 //LSB Distrib tag
 UBUNTU:BOOL=TRUE
@@ -297,7 +297,7 @@ _gtest_SOURCES:FILEPATH=/usr/src/gtest/src/gtest.cc
 catkin_DIR:PATH=/opt/ros/melodic/share/catkin/cmake
 
 //The directory containing a CMake configuration file for console_bridge.
-console_bridge_DIR:PATH=/usr/lib/x86_64-linux-gnu/console_bridge/cmake
+console_bridge_DIR:PATH=/usr/lib/aarch64-linux-gnu/console_bridge/cmake
 
 //Value Computed by CMake
 gmock_BINARY_DIR:STATIC=/home/minidrone/repos/optiTrackDrone/mav-ws/build/libmavconn/gtest/googlemock
@@ -355,7 +355,7 @@ libmavconn_BINARY_DIR:STATIC=/home/minidrone/repos/optiTrackDrone/mav-ws/build/l
 libmavconn_SOURCE_DIR:STATIC=/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/libmavconn
 
 //Dependencies for the target
-mavconn_LIB_DEPENDS:STATIC=general;/usr/lib/x86_64-linux-gnu/libboost_system.so;general;console_bridge;
+mavconn_LIB_DEPENDS:STATIC=general;/usr/lib/aarch64-linux-gnu/libboost_system.so;general;console_bridge;
 
 //The directory containing a CMake configuration file for mavlink.
 mavlink_DIR:PATH=/home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/mavlink/cmake
@@ -560,9 +560,9 @@ _Boost_COMPONENTS_SEARCHED:INTERNAL=system
 //Last used Boost_INCLUDE_DIR value.
 _Boost_INCLUDE_DIR_LAST:INTERNAL=/usr/include
 //Last used Boost_LIBRARY_DIR_DEBUG value.
-_Boost_LIBRARY_DIR_DEBUG_LAST:INTERNAL=/usr/lib/x86_64-linux-gnu
+_Boost_LIBRARY_DIR_DEBUG_LAST:INTERNAL=/usr/lib/aarch64-linux-gnu
 //Last used Boost_LIBRARY_DIR_RELEASE value.
-_Boost_LIBRARY_DIR_RELEASE_LAST:INTERNAL=/usr/lib/x86_64-linux-gnu
+_Boost_LIBRARY_DIR_RELEASE_LAST:INTERNAL=/usr/lib/aarch64-linux-gnu
 //Last used Boost_NAMESPACE value.
 _Boost_NAMESPACE_LAST:INTERNAL=boost
 //Last used Boost_USE_MULTITHREADED value.

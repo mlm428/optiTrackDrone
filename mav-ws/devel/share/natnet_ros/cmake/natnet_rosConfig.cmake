@@ -1,0 +1,1 @@
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/natnet_ros/share/natnet_ros/cmake/natnet_rosConfig.cmake

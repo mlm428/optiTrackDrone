@@ -249,13 +249,13 @@ PYTHON_EXECUTABLE:FILEPATH=/usr/bin/python2
 PYTHON_VERSION:STRING=2
 
 //Path to a library.
-RT_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/librt.so
+RT_LIBRARY:FILEPATH=/usr/lib/aarch64-linux-gnu/librt.so
 
 //Enable debian style python package layout
 SETUPTOOLS_DEB_LAYOUT:BOOL=ON
 
 //Name of the computer/site where compile is being run
-SITE:STRING=MSI
+SITE:STRING=odroidc4
 
 //LSB Distrib tag
 UBUNTU:BOOL=TRUE

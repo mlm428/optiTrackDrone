@@ -116,7 +116,7 @@ if(NOT "/usr/include " STREQUAL " ")
   endforeach()
 endif()
 
-set(libraries "/usr/lib/x86_64-linux-gnu/libboost_system.so")
+set(libraries "/usr/lib/aarch64-linux-gnu/libboost_system.so")
 foreach(library ${libraries})
   # keep build configuration keywords, target names and absolute libraries as-is
   if("${library}" MATCHES "^(debug|optimized|general)$")

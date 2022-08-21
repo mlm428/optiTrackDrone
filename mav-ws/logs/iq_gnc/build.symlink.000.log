@@ -1,6 +1,6 @@
+Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/iq_gnc/cmake/iq_gncConfig-version.cmake
+Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/iq_gnc/cmake/iq_gncConfig.cmake
 Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/iq_gnc/gnc_example
 Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/iq_gnc/square
 Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/pkgconfig/iq_gnc.pc
 Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/iq_gnc/__init__.py
-Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/iq_gnc/cmake/iq_gncConfig-version.cmake
-Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/iq_gnc/cmake/iq_gncConfig.cmake

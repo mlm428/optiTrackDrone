@@ -194,8 +194,8 @@ mavconn_EXTERNAL_OBJECTS =
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so: CMakeFiles/mavconn.dir/src/tcp.cpp.o
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so: CMakeFiles/mavconn.dir/src/udp.cpp.o
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so: CMakeFiles/mavconn.dir/build.make
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so: /usr/lib/x86_64-linux-gnu/libboost_system.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so: /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so: /usr/lib/aarch64-linux-gnu/libboost_system.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so: /usr/lib/aarch64-linux-gnu/libconsole_bridge.so.0.4
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so: CMakeFiles/mavconn.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/minidrone/repos/optiTrackDrone/mav-ws/build/libmavconn/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX shared library /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mavconn.dir/link.txt --verbose=$(VERBOSE)

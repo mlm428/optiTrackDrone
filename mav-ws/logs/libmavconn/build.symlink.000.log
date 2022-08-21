@@ -1,5 +1,5 @@
-Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/libmavconn.so
-Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/pkgconfig/libmavconn.pc
-Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
 Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/libmavconn/cmake/libmavconn-extras.cmake
 Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/libmavconn.so
+Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/pkgconfig/libmavconn.pc
