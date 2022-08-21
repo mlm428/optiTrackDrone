@@ -1,8 +1,10 @@
 mavros/mavros_extras
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/cmake.lock /home/minidrone/repos/optiTrackDrone/mav-ws/devel/./cmake.lock
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/lib/libmavros_extras.so /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/libmavros_extras.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/lib/mavros_extras/visualization /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/mavros_extras/visualization
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/mavros_extras/servo_state_publisher
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/pkgconfig/mavros_extras.pc
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/_setup_util.pyc /home/minidrone/repos/optiTrackDrone/mav-ws/devel/./_setup_util.pyc
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/lib/libmavros_extras.so /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/libmavros_extras.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/pkgconfig/mavros_extras.pc
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/mavros_extras/servo_state_publisher
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/lib/mavros_extras/visualization /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/mavros_extras/visualization
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/__pycache__/_setup_util.cpython-36.pyc /home/minidrone/repos/optiTrackDrone/mav-ws/devel/__pycache__/_setup_util.cpython-36.pyc

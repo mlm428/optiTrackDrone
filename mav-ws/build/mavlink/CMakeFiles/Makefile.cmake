@@ -13,9 +13,12 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/config.cmake.in"
   "/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/config.h.in"
   "/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/pc.in"
+  "/usr/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake"
   "/usr/share/cmake-3.10/Modules/CMakeGenericSystem.cmake"
+  "/usr/share/cmake-3.10/Modules/CMakeSystem.cmake.in"
   "/usr/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake"
   "/usr/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake"
+  "/usr/share/cmake-3.10/Modules/CMakeUnixFindMake.cmake"
   "/usr/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake"
   "/usr/share/cmake-3.10/Modules/FindPackageMessage.cmake"
   "/usr/share/cmake-3.10/Modules/FindPythonInterp.cmake"
@@ -32,6 +35,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
+  "CMakeFiles/3.10.2/CMakeSystem.cmake"
   "config.h"
   "mavlink-config.cmake"
   "mavlink.pc"

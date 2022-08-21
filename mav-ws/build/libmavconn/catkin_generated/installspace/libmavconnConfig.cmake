@@ -116,7 +116,7 @@ if(NOT "include;/usr/include;/home/minidrone/repos/optiTrackDrone/mav-ws/devel/i
   endforeach()
 endif()
 
-set(libraries "mavconn;/usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4")
+set(libraries "mavconn;/usr/lib/aarch64-linux-gnu/libboost_system.so;/usr/lib/aarch64-linux-gnu/libconsole_bridge.so.0.4")
 foreach(library ${libraries})
   # keep build configuration keywords, target names and absolute libraries as-is
   if("${library}" MATCHES "^(debug|optimized|general)$")

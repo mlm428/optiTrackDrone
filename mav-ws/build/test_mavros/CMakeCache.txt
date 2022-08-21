@@ -30,16 +30,16 @@ Boost_DIR:PATH=Boost_DIR-NOTFOUND
 Boost_INCLUDE_DIR:PATH=/usr/include
 
 //Boost library directory DEBUG
-Boost_LIBRARY_DIR_DEBUG:PATH=/usr/lib/x86_64-linux-gnu
+Boost_LIBRARY_DIR_DEBUG:PATH=/usr/lib/aarch64-linux-gnu
 
 //Boost library directory RELEASE
-Boost_LIBRARY_DIR_RELEASE:PATH=/usr/lib/x86_64-linux-gnu
+Boost_LIBRARY_DIR_RELEASE:PATH=/usr/lib/aarch64-linux-gnu
 
 //Boost system library (debug)
-Boost_SYSTEM_LIBRARY_DEBUG:FILEPATH=/usr/lib/x86_64-linux-gnu/libboost_system.so
+Boost_SYSTEM_LIBRARY_DEBUG:FILEPATH=/usr/lib/aarch64-linux-gnu/libboost_system.so
 
 //Boost system library (release)
-Boost_SYSTEM_LIBRARY_RELEASE:FILEPATH=/usr/lib/x86_64-linux-gnu/libboost_system.so
+Boost_SYSTEM_LIBRARY_RELEASE:FILEPATH=/usr/lib/aarch64-linux-gnu/libboost_system.so
 
 //catkin devel space
 CATKIN_DEVEL_PREFIX:PATH=/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/test_mavros
@@ -270,13 +270,13 @@ PYTHON_EXECUTABLE:FILEPATH=/usr/bin/python2
 PYTHON_VERSION:STRING=2
 
 //Path to a library.
-RT_LIBRARY:FILEPATH=/usr/lib/x86_64-linux-gnu/librt.so
+RT_LIBRARY:FILEPATH=/usr/lib/aarch64-linux-gnu/librt.so
 
 //Enable debian style python package layout
 SETUPTOOLS_DEB_LAYOUT:BOOL=ON
 
 //Name of the computer/site where compile is being run
-SITE:STRING=MSI
+SITE:STRING=odroidc4
 
 //LSB Distrib tag
 UBUNTU:BOOL=TRUE
@@ -421,7 +421,7 @@ mavros_extras_DIR:PATH=/home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/m
 mavros_msgs_DIR:PATH=/home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/mavros_msgs/cmake
 
 //Dependencies for the target
-mavros_sitl_test_LIB_DEPENDS:STATIC=general;/usr/lib/x86_64-linux-gnu/libboost_system.so;general;/opt/ros/melodic/lib/libcontrol_toolbox.so;general;/usr/lib/x86_64-linux-gnu/libtinyxml.so;general;/opt/ros/melodic/lib/libdynamic_reconfigure_config_init_mutex.so;general;/opt/ros/melodic/lib/librealtime_tools.so;general;/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/libmavros.so;general;/usr/lib/x86_64-linux-gnu/libGeographic.so;general;/opt/ros/melodic/lib/libdiagnostic_updater.so;general;/opt/ros/melodic/lib/libeigen_conversions.so;general;/opt/ros/melodic/lib/liborocos-kdl.so.1.4.0;general;/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so;general;/opt/ros/melodic/lib/libclass_loader.so;general;/usr/lib/libPocoFoundation.so;general;/usr/lib/x86_64-linux-gnu/libdl.so;general;/opt/ros/melodic/lib/libroslib.so;general;/opt/ros/melodic/lib/librospack.so;general;/usr/lib/x86_64-linux-gnu/libpython2.7.so;general;/usr/lib/x86_64-linux-gnu/libboost_program_options.so;general;/usr/lib/x86_64-linux-gnu/libtinyxml2.so;general;/opt/ros/melodic/lib/libtf2_ros.so;general;/opt/ros/melodic/lib/libactionlib.so;general;/opt/ros/melodic/lib/libmessage_filters.so;general;/opt/ros/melodic/lib/libroscpp.so;general;/usr/lib/x86_64-linux-gnu/libboost_filesystem.so;general;/opt/ros/melodic/lib/librosconsole.so;general;/opt/ros/melodic/lib/librosconsole_log4cxx.so;general;/opt/ros/melodic/lib/librosconsole_backend_interface.so;general;/usr/lib/x86_64-linux-gnu/liblog4cxx.so;general;/usr/lib/x86_64-linux-gnu/libboost_regex.so;general;/opt/ros/melodic/lib/libxmlrpcpp.so;general;/opt/ros/melodic/lib/libtf2.so;general;/opt/ros/melodic/lib/libroscpp_serialization.so;general;/opt/ros/melodic/lib/librostime.so;general;/opt/ros/melodic/lib/libcpp_common.so;general;/usr/lib/x86_64-linux-gnu/libboost_system.so;general;/usr/lib/x86_64-linux-gnu/libboost_thread.so;general;/usr/lib/x86_64-linux-gnu/libboost_chrono.so;general;/usr/lib/x86_64-linux-gnu/libboost_date_time.so;general;/usr/lib/x86_64-linux-gnu/libboost_atomic.so;general;/usr/lib/x86_64-linux-gnu/libpthread.so;general;/usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4;
+mavros_sitl_test_LIB_DEPENDS:STATIC=general;/usr/lib/aarch64-linux-gnu/libboost_system.so;general;/opt/ros/melodic/lib/libcontrol_toolbox.so;general;/usr/lib/aarch64-linux-gnu/libtinyxml.so;general;/opt/ros/melodic/lib/libdynamic_reconfigure_config_init_mutex.so;general;/opt/ros/melodic/lib/librealtime_tools.so;general;/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/libmavros.so;general;/usr/lib/aarch64-linux-gnu/libGeographic.so;general;/opt/ros/melodic/lib/libdiagnostic_updater.so;general;/opt/ros/melodic/lib/libeigen_conversions.so;general;/opt/ros/melodic/lib/liborocos-kdl.so.1.4.0;general;/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/libmavconn/lib/libmavconn.so;general;/opt/ros/melodic/lib/libclass_loader.so;general;/usr/lib/libPocoFoundation.so;general;/usr/lib/aarch64-linux-gnu/libdl.so;general;/opt/ros/melodic/lib/libroslib.so;general;/opt/ros/melodic/lib/librospack.so;general;/usr/lib/aarch64-linux-gnu/libpython2.7.so;general;/usr/lib/aarch64-linux-gnu/libboost_program_options.so;general;/usr/lib/aarch64-linux-gnu/libtinyxml2.so;general;/opt/ros/melodic/lib/libtf2_ros.so;general;/opt/ros/melodic/lib/libactionlib.so;general;/opt/ros/melodic/lib/libmessage_filters.so;general;/opt/ros/melodic/lib/libroscpp.so;general;/usr/lib/aarch64-linux-gnu/libboost_filesystem.so;general;/opt/ros/melodic/lib/librosconsole.so;general;/opt/ros/melodic/lib/librosconsole_log4cxx.so;general;/opt/ros/melodic/lib/librosconsole_backend_interface.so;general;/usr/lib/aarch64-linux-gnu/liblog4cxx.so;general;/usr/lib/aarch64-linux-gnu/libboost_regex.so;general;/opt/ros/melodic/lib/libxmlrpcpp.so;general;/opt/ros/melodic/lib/libtf2.so;general;/opt/ros/melodic/lib/libroscpp_serialization.so;general;/opt/ros/melodic/lib/librostime.so;general;/opt/ros/melodic/lib/libcpp_common.so;general;/usr/lib/aarch64-linux-gnu/libboost_system.so;general;/usr/lib/aarch64-linux-gnu/libboost_thread.so;general;/usr/lib/aarch64-linux-gnu/libboost_chrono.so;general;/usr/lib/aarch64-linux-gnu/libboost_date_time.so;general;/usr/lib/aarch64-linux-gnu/libboost_atomic.so;general;/usr/lib/aarch64-linux-gnu/libpthread.so;general;/usr/lib/aarch64-linux-gnu/libconsole_bridge.so.0.4;
 
 //The directory containing a CMake configuration file for message_filters.
 message_filters_DIR:PATH=/opt/ros/melodic/share/message_filters/cmake
@@ -707,9 +707,9 @@ _Boost_COMPONENTS_SEARCHED:INTERNAL=system
 //Last used Boost_INCLUDE_DIR value.
 _Boost_INCLUDE_DIR_LAST:INTERNAL=/usr/include
 //Last used Boost_LIBRARY_DIR_DEBUG value.
-_Boost_LIBRARY_DIR_DEBUG_LAST:INTERNAL=/usr/lib/x86_64-linux-gnu
+_Boost_LIBRARY_DIR_DEBUG_LAST:INTERNAL=/usr/lib/aarch64-linux-gnu
 //Last used Boost_LIBRARY_DIR_RELEASE value.
-_Boost_LIBRARY_DIR_RELEASE_LAST:INTERNAL=/usr/lib/x86_64-linux-gnu
+_Boost_LIBRARY_DIR_RELEASE_LAST:INTERNAL=/usr/lib/aarch64-linux-gnu
 //Last used Boost_NAMESPACE value.
 _Boost_NAMESPACE_LAST:INTERNAL=boost
 //Last used Boost_USE_MULTITHREADED value.

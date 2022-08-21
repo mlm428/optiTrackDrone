@@ -1,22 +1,23 @@
 Determining if the pthread_create exist failed with the following output:
 Change Dir: /home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_extras/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_4ac3f/fast"
-/usr/bin/make -f CMakeFiles/cmTC_4ac3f.dir/build.make CMakeFiles/cmTC_4ac3f.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_5cfda/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5cfda.dir/build.make CMakeFiles/cmTC_5cfda.dir/build
 make[1]: Entering directory '/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_extras/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_4ac3f.dir/CheckSymbolExists.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_4ac3f.dir/CheckSymbolExists.c.o   -c /home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_extras/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_4ac3f
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4ac3f.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_4ac3f.dir/CheckSymbolExists.c.o  -o cmTC_4ac3f 
-CMakeFiles/cmTC_4ac3f.dir/CheckSymbolExists.c.o: In function `main':
-CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+Building C object CMakeFiles/cmTC_5cfda.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_5cfda.dir/CheckSymbolExists.c.o   -c /home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_extras/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_5cfda
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5cfda.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_5cfda.dir/CheckSymbolExists.c.o  -o cmTC_5cfda 
+CMakeFiles/cmTC_5cfda.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x14): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x18): undefined reference to `pthread_create'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_4ac3f.dir/build.make:97: recipe for target 'cmTC_4ac3f' failed
-make[1]: *** [cmTC_4ac3f] Error 1
+CMakeFiles/cmTC_5cfda.dir/build.make:97: recipe for target 'cmTC_5cfda' failed
+make[1]: *** [cmTC_5cfda] Error 1
 make[1]: Leaving directory '/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_extras/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_4ac3f/fast' failed
-make: *** [cmTC_4ac3f/fast] Error 2
+Makefile:126: recipe for target 'cmTC_5cfda/fast' failed
+make: *** [cmTC_5cfda/fast] Error 2
 
 File /home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_extras/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
@@ -36,20 +37,20 @@ int main(int argc, char** argv)
 Determining if the function pthread_create exists in the pthreads failed with the following output:
 Change Dir: /home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_extras/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_475d7/fast"
-/usr/bin/make -f CMakeFiles/cmTC_475d7.dir/build.make CMakeFiles/cmTC_475d7.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_daa90/fast"
+/usr/bin/make -f CMakeFiles/cmTC_daa90.dir/build.make CMakeFiles/cmTC_daa90.dir/build
 make[1]: Entering directory '/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_extras/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_475d7.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_475d7.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
-Linking C executable cmTC_475d7
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_475d7.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_475d7.dir/CheckFunctionExists.c.o  -o cmTC_475d7 -lpthreads 
+Building C object CMakeFiles/cmTC_daa90.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_daa90.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_daa90
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_daa90.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_daa90.dir/CheckFunctionExists.c.o  -o cmTC_daa90 -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_475d7.dir/build.make:97: recipe for target 'cmTC_475d7' failed
-make[1]: *** [cmTC_475d7] Error 1
+CMakeFiles/cmTC_daa90.dir/build.make:97: recipe for target 'cmTC_daa90' failed
+make[1]: *** [cmTC_daa90] Error 1
 make[1]: Leaving directory '/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_extras/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_475d7/fast' failed
-make: *** [cmTC_475d7/fast] Error 2
+Makefile:126: recipe for target 'cmTC_daa90/fast' failed
+make: *** [cmTC_daa90/fast] Error 2
 
 

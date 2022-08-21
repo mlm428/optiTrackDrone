@@ -60,7 +60,7 @@ ardupilotmega-v2.0-cxx-stamp: /home/minidrone/repos/optiTrackDrone/mav-ws/src/ma
 ardupilotmega-v2.0-cxx-stamp: /home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/message_definitions/v1.0/common.xml
 ardupilotmega-v2.0-cxx-stamp: /home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/pymavlink/tools/mavgen.py
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavlink/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating ardupilotmega-v2.0-cxx-stamp"
-	/usr/bin/env PYTHONPATH="/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink:/home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages" /usr/bin/python2 /home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/pymavlink/tools/mavgen.py --lang=C++11 --wire-protocol=2.0 --output=include/v2.0 /home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/message_definitions/v1.0/ardupilotmega.xml
+	/usr/bin/env PYTHONPATH="/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink:/opt/ros/melodic/lib/python2.7/dist-packages" /usr/bin/python2 /home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/pymavlink/tools/mavgen.py --lang=C++11 --wire-protocol=2.0 --output=include/v2.0 /home/minidrone/repos/optiTrackDrone/mav-ws/src/mavlink/message_definitions/v1.0/ardupilotmega.xml
 	touch ardupilotmega-v2.0-cxx-stamp
 
 ardupilotmega.xml-v2.0: CMakeFiles/ardupilotmega.xml-v2.0

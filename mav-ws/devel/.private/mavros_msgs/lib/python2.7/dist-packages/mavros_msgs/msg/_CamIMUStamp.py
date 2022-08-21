@@ -67,8 +67,7 @@ int32 frame_seq_id		# Sequence number of the image frame
     unpack serialized message in str into this message instance
     :param str: byte array of serialized message, ``str``
     """
-    if python3:
-      codecs.lookup_error("rosmsg").msg_type = self._type
+    codecs.lookup_error("rosmsg").msg_type = self._type
     try:
       if self.frame_stamp is None:
         self.frame_stamp = genpy.Time()
@@ -101,8 +100,7 @@ int32 frame_seq_id		# Sequence number of the image frame
     :param str: byte array of serialized message, ``str``
     :param numpy: numpy python module
     """
-    if python3:
-      codecs.lookup_error("rosmsg").msg_type = self._type
+    codecs.lookup_error("rosmsg").msg_type = self._type
     try:
       if self.frame_stamp is None:
         self.frame_stamp = genpy.Time()

@@ -1,0 +1,28 @@
+In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/src/square.cpp:1:0[m[K:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:[m[K In function ‘[01m[Kint takeoff(float)[m[K’:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:313:3:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Karming_client[m[K’
+   [01;31m[Karming_client[m[K.call(arm_request);
+   [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:315:3:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Klocal_pos_pub[m[K’
+   [01;31m[Klocal_pos_pub[m[K.publish(waypoint_g);
+   [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:317:2:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+  [01;31m[K}[m[K
+  [01;31m[K^[m[K
+In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/src/gnc_tutorial.cpp:1:0[m[K:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:[m[K In function ‘[01m[Kint takeoff(float)[m[K’:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:313:3:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Karming_client[m[K’
+   [01;31m[Karming_client[m[K.call(arm_request);
+   [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:315:3:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Klocal_pos_pub[m[K’
+   [01;31m[Klocal_pos_pub[m[K.publish(waypoint_g);
+   [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:317:2:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+  [01;31m[K}[m[K
+  [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/square.dir/src/square.cpp.o] Error 1
+make[1]: *** [CMakeFiles/square.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make[2]: *** [CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.o] Error 1
+make[1]: *** [CMakeFiles/gnc_example.dir/all] Error 2
+make: *** [all] Error 2

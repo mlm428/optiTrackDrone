@@ -1,0 +1,63 @@
+[35m[1mScanning dependencies of target square[0m
+[35m[1mScanning dependencies of target gnc_example[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/square.dir/src/square.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.o[0m
+In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/src/square.cpp:1:0[m[K:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:[m[K In function ‘[01m[Kint takeoff(float)[m[K’:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:332:4:[m[K [01;31m[Kerror: [m[Kbreak statement not within loop or switch
+    [01;31m[Kbreak[m[K;
+    [01;31m[K^~~~~[m[K
+In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/src/gnc_tutorial.cpp:1:0[m[K:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:[m[K In function ‘[01m[Kint takeoff(float)[m[K’:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:332:4:[m[K [01;31m[Kerror: [m[Kbreak statement not within loop or switch
+    [01;31m[Kbreak[m[K;
+    [01;31m[K^~~~~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:[m[K At global scope:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:365:2:[m[K [01;31m[Kerror: [m[K‘[01m[Ksrv_takeoff[m[K’ does not name a type
+  [01;31m[Ksrv_takeoff[m[K.request.altitude = takeoff_alt;
+  [01;31m[K^~~~~~~~~~~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:[m[K At global scope:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:365:2:[m[K [01;31m[Kerror: [m[K‘[01m[Ksrv_takeoff[m[K’ does not name a type
+  [01;31m[Ksrv_takeoff[m[K.request.altitude = takeoff_alt;
+  [01;31m[K^~~~~~~~~~~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:366:2:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kif[m[K’
+  [01;31m[Kif[m[K(takeoff_client.call(srv_takeoff)){
+  [01;31m[K^~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:366:2:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kif[m[K’
+  [01;31m[Kif[m[K(takeoff_client.call(srv_takeoff)){
+  [01;31m[K^~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:369:3:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kelse[m[K’
+  }[01;31m[Kelse[m[K{
+   [01;31m[K^~~~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:369:3:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kelse[m[K’
+  }[01;31m[Kelse[m[K{
+   [01;31m[K^~~~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:373:7:[m[K [01;31m[Kerror: [m[Kexpected constructor, destructor, or type conversion before ‘[01m[K([m[K’ token
+  sleep[01;31m[K([m[K2);
+       [01;31m[K^[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:373:7:[m[K [01;31m[Kerror: [m[Kexpected constructor, destructor, or type conversion before ‘[01m[K([m[K’ token
+  sleep[01;31m[K([m[K2);
+       [01;31m[K^[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:374:2:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kreturn[m[K’
+  [01;31m[Kreturn[m[K 0;
+  [01;31m[K^~~~~~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:374:2:[m[K [01;31m[Kerror: [m[Kexpected unqualified-id before ‘[01m[Kreturn[m[K’
+  [01;31m[Kreturn[m[K 0;
+  [01;31m[K^~~~~~[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:375:1:[m[K [01;31m[Kerror: [m[Kexpected declaration before ‘[01m[K}[m[K’ token
+ [01;31m[K}[m[K
+ [01;31m[K^[m[K
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/iq_gnc/include/gnc_functions.hpp:375:1:[m[K [01;31m[Kerror: [m[Kexpected declaration before ‘[01m[K}[m[K’ token
+ [01;31m[K}[m[K
+ [01;31m[K^[m[K
+CMakeFiles/square.dir/build.make:62: recipe for target 'CMakeFiles/square.dir/src/square.cpp.o' failed
+CMakeFiles/gnc_example.dir/build.make:62: recipe for target 'CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.o' failed
+make[2]: *** [CMakeFiles/square.dir/src/square.cpp.o] Error 1
+make[2]: *** [CMakeFiles/gnc_example.dir/src/gnc_tutorial.cpp.o] Error 1
+CMakeFiles/Makefile2:776: recipe for target 'CMakeFiles/square.dir/all' failed
+CMakeFiles/Makefile2:483: recipe for target 'CMakeFiles/gnc_example.dir/all' failed
+make[1]: *** [CMakeFiles/square.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/gnc_example.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

@@ -1,10 +1,14 @@
 mavros/mavros
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/cmake.lock /home/minidrone/repos/optiTrackDrone/mav-ws/devel/./cmake.lock
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/libmavros.so /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/libmavros.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/_setup_util.pyc /home/minidrone/repos/optiTrackDrone/mav-ws/devel/./_setup_util.pyc
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/mavros/cmake/mavrosConfig.cmake
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/share/mavros/cmake/mavrosConfig-version.cmake /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/mavros/cmake/mavrosConfig-version.cmake
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/libmavros_plugins.so /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/libmavros_plugins.so
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/pkgconfig/mavros.pc /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/pkgconfig/mavros.pc
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/libmavros.so /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/libmavros.so
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/mavros/mavros_node /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/mavros/mavros_node
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/mavros/gcs_bridge /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/mavros/gcs_bridge
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/pkgconfig/mavros.pc /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/pkgconfig/mavros.pc
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/python2.7/dist-packages/mavros/__init__.pyc /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros/__init__.pyc
 /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/python2.7/dist-packages/mavros/__init__.py /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros/__init__.py
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/share/mavros/cmake/mavrosConfig-version.cmake /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/mavros/cmake/mavrosConfig-version.cmake
-/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/mavros/cmake/mavrosConfig.cmake
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/lib/python2.7/dist-packages/mavros/__pycache__/__init__.cpython-36.pyc /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros/__pycache__/__init__.cpython-36.pyc
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros/__pycache__/_setup_util.cpython-36.pyc /home/minidrone/repos/optiTrackDrone/mav-ws/devel/__pycache__/_setup_util.cpython-36.pyc
