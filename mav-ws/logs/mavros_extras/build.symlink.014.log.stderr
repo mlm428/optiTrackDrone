@@ -1,0 +1,6 @@
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/_setup_util.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/./_setup_util.pyc
+Warning: Source hash: 630b6915ec678ccdc0dfba2da8a56e32
+Warning: Dest hash: 89cd36fea50f0130699fa4c94bf1d316
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/__pycache__/_setup_util.cpython-36.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/__pycache__/_setup_util.cpython-36.pyc
+Warning: Source hash: 88e21a10787b0e0997f13a6a8afe862f
+Warning: Dest hash: 8d846bba62f6931c8d8273bd6e1ea307

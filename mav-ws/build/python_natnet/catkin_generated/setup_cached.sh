@@ -9,6 +9,7 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/python_natnet:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/python_natnet/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/python_natnet/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/minidrone/repos/optiTrackDrone/mav-ws/build/python_natnet'
 export PYTHONPATH="/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/python_natnet/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/python_natnet/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"

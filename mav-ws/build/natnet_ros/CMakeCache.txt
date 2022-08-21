@@ -264,7 +264,7 @@ UBUNTU:BOOL=TRUE
 UBUNTU_BIONIC:BOOL=TRUE
 
 //Path to a file.
-_file_name:FILEPATH=/home/minidrone/repos/optiTrackDrone/mav-ws/src/natnet_ros/natnet_ros/test/client.test
+_file_name:FILEPATH=/home/minidrone/repos/optiTrackDrone/mav-ws/src/natnet_ros/natnet_ros/test/logging.test
 
 //Path to a file.
 _gmock_INCLUDES:FILEPATH=/usr/include/gmock/gmock.h

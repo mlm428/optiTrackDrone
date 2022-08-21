@@ -129,6 +129,10 @@ file(INSTALL DESTINATION "/home/minidrone/repos/optiTrackDrone/mav-ws/install" T
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  include("/home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/catkin_generated/safe_execute_install.cmake")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/catkin_generated/installspace/natnet_ros.pc")
 endif()
 
@@ -145,6 +149,10 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/natnet_ros" TYPE PROGRAM FILES "/home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/catkin_generated/installspace/client")
+endif()
+
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/natnet_ros" TYPE PROGRAM FILES "/home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/catkin_generated/installspace/logtest")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)

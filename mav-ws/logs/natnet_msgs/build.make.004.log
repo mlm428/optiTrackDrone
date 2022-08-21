@@ -1,0 +1,18 @@
+[  0%] Built target _natnet_msgs_generate_messages_check_deps_MarkerList
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[ 14%] [34m[1mGenerating EusLisp code from natnet_msgs/MarkerList.msg[0m
+[ 28%] Built target natnet_msgs_generate_messages_eus
+[ 42%] [34m[1mGenerating Python from MSG natnet_msgs/MarkerList[0m
+[ 57%] [34m[1mGenerating Python msg __init__.py for natnet_msgs[0m
+[ 71%] [34m[1mGenerating Lisp code from natnet_msgs/MarkerList.msg[0m
+[ 71%] Built target natnet_msgs_generate_messages_py
+[ 71%] Built target natnet_msgs_generate_messages_lisp
+[ 85%] [34m[1mGenerating C++ code from natnet_msgs/MarkerList.msg[0m
+[100%] [34m[1mGenerating Javascript code from natnet_msgs/MarkerList.msg[0m
+[100%] Built target natnet_msgs_generate_messages_nodejs
+[100%] Built target natnet_msgs_generate_messages_cpp
+[100%] Built target natnet_msgs_generate_messages

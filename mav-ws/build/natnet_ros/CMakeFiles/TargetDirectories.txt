@@ -1,5 +1,7 @@
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/install/strip.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/list_install_components.dir
+/home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/rebuild_cache.dir
+/home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/edit_cache.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/install/local.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/doxygen.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/install.dir
@@ -7,16 +9,16 @@
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/clean_test_results.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/_catkin_empty_exported_target.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/_run_tests_natnet_ros_rostest_test_client.test.dir
-/home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/rebuild_cache.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/download_extra_data.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/_run_tests_natnet_ros.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/run_tests.dir
-/home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/edit_cache.dir
+/home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/run_tests_natnet_ros_rostest_test_logging.test.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/tests.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/run_tests_natnet_ros.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/run_tests_natnet_ros_rostest_test_client.test.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/run_tests_natnet_ros_rostest.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/_run_tests_natnet_ros_rostest.dir
+/home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/_run_tests_natnet_ros_rostest_test_logging.test.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/CMakeFiles/test.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/gtest/CMakeFiles/install/strip.dir
 /home/minidrone/repos/optiTrackDrone/mav-ws/build/natnet_ros/gtest/CMakeFiles/edit_cache.dir

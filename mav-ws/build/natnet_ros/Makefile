@@ -78,6 +78,28 @@ list_install_components/fast: list_install_components
 
 .PHONY : list_install_components/fast
 
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/usr/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
+
+# Special rule for the target edit_cache
+edit_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	/usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+.PHONY : edit_cache
+
+# Special rule for the target edit_cache
+edit_cache/fast: edit_cache
+
+.PHONY : edit_cache/fast
+
 # Special rule for the target install/local
 install/local: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Installing only the local directory..."
@@ -101,28 +123,6 @@ install/fast: preinstall/fast
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Install the project..."
 	/usr/bin/cmake -P cmake_install.cmake
 .PHONY : install/fast
-
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	/usr/bin/cmake -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
-
-# Special rule for the target edit_cache
-edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	/usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
-.PHONY : edit_cache
-
-# Special rule for the target edit_cache
-edit_cache/fast: edit_cache
-
-.PHONY : edit_cache/fast
 
 # Special rule for the target test
 test:
@@ -272,6 +272,19 @@ run_tests/fast:
 .PHONY : run_tests/fast
 
 #=============================================================================
+# Target rules for targets named run_tests_natnet_ros_rostest_test_logging.test
+
+# Build rule for target.
+run_tests_natnet_ros_rostest_test_logging.test: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 run_tests_natnet_ros_rostest_test_logging.test
+.PHONY : run_tests_natnet_ros_rostest_test_logging.test
+
+# fast build rule for target.
+run_tests_natnet_ros_rostest_test_logging.test/fast:
+	$(MAKE) -f CMakeFiles/run_tests_natnet_ros_rostest_test_logging.test.dir/build.make CMakeFiles/run_tests_natnet_ros_rostest_test_logging.test.dir/build
+.PHONY : run_tests_natnet_ros_rostest_test_logging.test/fast
+
+#=============================================================================
 # Target rules for targets named tests
 
 # Build rule for target.
@@ -337,6 +350,19 @@ _run_tests_natnet_ros_rostest/fast:
 .PHONY : _run_tests_natnet_ros_rostest/fast
 
 #=============================================================================
+# Target rules for targets named _run_tests_natnet_ros_rostest_test_logging.test
+
+# Build rule for target.
+_run_tests_natnet_ros_rostest_test_logging.test: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 _run_tests_natnet_ros_rostest_test_logging.test
+.PHONY : _run_tests_natnet_ros_rostest_test_logging.test
+
+# fast build rule for target.
+_run_tests_natnet_ros_rostest_test_logging.test/fast:
+	$(MAKE) -f CMakeFiles/_run_tests_natnet_ros_rostest_test_logging.test.dir/build.make CMakeFiles/_run_tests_natnet_ros_rostest_test_logging.test.dir/build
+.PHONY : _run_tests_natnet_ros_rostest_test_logging.test/fast
+
+#=============================================================================
 # Target rules for targets named gmock_main
 
 # Build rule for target.
@@ -396,6 +422,8 @@ help:
 	@echo "... depend"
 	@echo "... install/strip"
 	@echo "... list_install_components"
+	@echo "... rebuild_cache"
+	@echo "... edit_cache"
 	@echo "... install/local"
 	@echo "... doxygen"
 	@echo "... install"
@@ -403,16 +431,16 @@ help:
 	@echo "... clean_test_results"
 	@echo "... _catkin_empty_exported_target"
 	@echo "... _run_tests_natnet_ros_rostest_test_client.test"
-	@echo "... rebuild_cache"
 	@echo "... download_extra_data"
 	@echo "... _run_tests_natnet_ros"
 	@echo "... run_tests"
-	@echo "... edit_cache"
+	@echo "... run_tests_natnet_ros_rostest_test_logging.test"
 	@echo "... tests"
 	@echo "... run_tests_natnet_ros"
 	@echo "... run_tests_natnet_ros_rostest_test_client.test"
 	@echo "... run_tests_natnet_ros_rostest"
 	@echo "... _run_tests_natnet_ros_rostest"
+	@echo "... _run_tests_natnet_ros_rostest_test_logging.test"
 	@echo "... test"
 	@echo "... gmock_main"
 	@echo "... gmock"

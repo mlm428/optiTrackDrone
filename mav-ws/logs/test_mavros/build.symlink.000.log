@@ -1,5 +1,0 @@
-Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/test_mavros/cmake/test_mavrosConfig.cmake
-Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake
-Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/libmavros_sitl_test.so
-Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/pkgconfig/test_mavros.pc
-Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/test_mavros/sitl_test_node

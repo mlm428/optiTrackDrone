@@ -1,0 +1,315 @@
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/_setup_util.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/./_setup_util.pyc
+Warning: Source hash: ab8a11cd011545a79dac52478d74666d
+Warning: Dest hash: 89cd36fea50f0130699fa4c94bf1d316
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/__init__.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/__init__.pyc
+Warning: Source hash: 324017943f4fd4251747c879639385c3
+Warning: Dest hash: a4b6f0bda8e4cd59c1341c705a629837
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_FileOpen.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_FileOpen.pyc
+Warning: Source hash: 5d79a04dabff2fc976d3fad7af42d711
+Warning: Dest hash: 27b2a763e7da1c87f3d5124014aa6dcc
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_VehicleInfoGet.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_VehicleInfoGet.pyc
+Warning: Source hash: 20db3eaa8c95a14c53750bd96bbfdc7d
+Warning: Dest hash: bb9c677d1b59818c6452d63dae49218a
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandInt.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandInt.pyc
+Warning: Source hash: 9f884666a74a1f04707af370c41b7019
+Warning: Dest hash: 8d7bc717decd6c3bfdb2b28b6d595ae3
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_FileClose.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_FileClose.pyc
+Warning: Source hash: 32e5e6ef5a9629d1de46b9a96fb59df7
+Warning: Dest hash: de530af903a18c06611d0b9fa9b111ff
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_FileWrite.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_FileWrite.pyc
+Warning: Source hash: ef79651a628f409b75be2570210c547b
+Warning: Dest hash: 1a6f1291b14833aa287c386b202cf6a4
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandTriggerControl.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandTriggerControl.pyc
+Warning: Source hash: afb307faefa4e16e07e48d9a025d3635
+Warning: Dest hash: 3fa5119864e20efa82d0d2a24f40aef0
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_SetMavFrame.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_SetMavFrame.pyc
+Warning: Source hash: f39c68b8c384fe44a736e7c7a9223d61
+Warning: Dest hash: bd0dedea9bc9dfbbd4366f54f872a2ab
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_FileRename.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_FileRename.pyc
+Warning: Source hash: 9e1d144e226a99cd6f8861463c20e91c
+Warning: Dest hash: f8c161487f9551dca825edd96de2d934
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_MessageInterval.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_MessageInterval.pyc
+Warning: Source hash: fa3dd680ce0732ad5df5cae9d37de7c7
+Warning: Dest hash: 13dfd766211ad1103bc8f7975e934452
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_WaypointPull.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_WaypointPull.pyc
+Warning: Source hash: 3775673c8d3e590a2c9661e2e4471265
+Warning: Dest hash: fe3939491e41944b3db2112ba562f092
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_WaypointClear.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_WaypointClear.pyc
+Warning: Source hash: b149fa8d8f9f508e00c3f4e19731c029
+Warning: Dest hash: ebd1277c4006e1d18e7470eead0563db
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/__init__.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/__init__.pyc
+Warning: Source hash: d00b1846a475325f0576be9c2e674a4b
+Warning: Dest hash: b1ca35e6803becac962fc6e5229e1275
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_LogRequestData.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_LogRequestData.pyc
+Warning: Source hash: 35bb9bc5e1b52b5ba0186f4f1be6fccd
+Warning: Dest hash: 932eb349353e6dd48887c05673422a69
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandBool.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandBool.pyc
+Warning: Source hash: 8aafbb165ec2824d3cbff977b08c582c
+Warning: Dest hash: 6d78cef00195e806382783741aacaf95
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandTriggerInterval.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandTriggerInterval.pyc
+Warning: Source hash: e5ddce782495d5c77c2564b4cbec20fc
+Warning: Dest hash: 50f78edb8a1ac38455ee764928ce2f30
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_SetMode.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_SetMode.pyc
+Warning: Source hash: ce289461145fd7bd1e0044ce335c0df8
+Warning: Dest hash: b8f39b19cd213a85670d06db7bba1f89
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_MountConfigure.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_MountConfigure.pyc
+Warning: Source hash: 0bc64873181420f3b51196b8f6ff1d0c
+Warning: Dest hash: e650ae4f5653585c989daf9c710709ef
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandVtolTransition.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandVtolTransition.pyc
+Warning: Source hash: f632445ce5e414cb9ec9c802e88cbcba
+Warning: Dest hash: 0f42e832e607d368ea544c8d2f9a20e5
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandHome.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandHome.pyc
+Warning: Source hash: a4ab6b7a8961d355eaa2573d94e10f30
+Warning: Dest hash: bb1f21cbc4c675c124e574f7831a8a10
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_ParamPush.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_ParamPush.pyc
+Warning: Source hash: 13488979d8c5d9091eecafd2bafd6fd4
+Warning: Dest hash: 7fabc4f01e7cad50074272b03be7824a
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_FileRemoveDir.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_FileRemoveDir.pyc
+Warning: Source hash: 6762853fbbe7bf1e00fc370820cc0ead
+Warning: Dest hash: c12d8deb45710bf00ceb076fa25ef254
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_FileTruncate.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_FileTruncate.pyc
+Warning: Source hash: 469bd782ede6dde8423dcf965c323652
+Warning: Dest hash: 3589b4413312a16fbd6beff3f9e5ea52
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_ParamGet.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_ParamGet.pyc
+Warning: Source hash: 569756ecf136435b06d85f1e69701299
+Warning: Dest hash: eb34e2b872ea377cc178c839c5d50a39
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_FileRead.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_FileRead.pyc
+Warning: Source hash: 42217debf937049e4c6134238bad5015
+Warning: Dest hash: 8be012ef2bf8674ea060d1a110cf8c43
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_ParamSet.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_ParamSet.pyc
+Warning: Source hash: 324d41368f961331baeff5ff1d7d92ca
+Warning: Dest hash: 57123ddb8373794cca7438aba0c4276b
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_LogRequestList.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_LogRequestList.pyc
+Warning: Source hash: 21abfda909b9a43b622fc56f73238363
+Warning: Dest hash: 0e0c9978d4580d6a7474828ffde9a728
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandAck.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandAck.pyc
+Warning: Source hash: d197723f5144b3e81fa231498de03587
+Warning: Dest hash: 79cccd7a0c715573bcd7656e87add732
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_WaypointPush.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_WaypointPush.pyc
+Warning: Source hash: 8558d4c095ceaa8c162403df419a6cb3
+Warning: Dest hash: 79c7364d093995b718c8d8e4d291f1e4
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_FileList.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_FileList.pyc
+Warning: Source hash: ba7aa4245781320e262382efa8c166bb
+Warning: Dest hash: ccf6269bfddc16e95aa481a40573d9dd
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_FileChecksum.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_FileChecksum.pyc
+Warning: Source hash: 65982482b91bc5c0a7efbcd891d8306f
+Warning: Dest hash: 1e488e39466dd7aeb94bf98b19f56983
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandTOL.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandTOL.pyc
+Warning: Source hash: 8017efde4c18c573f34be8975c745196
+Warning: Dest hash: e73089e0a95ff7a9888b6f42ff3c5538
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_FileMakeDir.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_FileMakeDir.pyc
+Warning: Source hash: 2c87e3cbbc41f09c5144258a82605894
+Warning: Dest hash: 4ee83c04cc5a1a5b885858ad7d415627
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_FileRemove.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_FileRemove.pyc
+Warning: Source hash: 1462c03f424f01e4f25343cb248e172b
+Warning: Dest hash: 56336b373fe2d7a03b8912ad412ccfaa
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandLong.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_CommandLong.pyc
+Warning: Source hash: ac7fec322bfd9f2ee0b94d661b22139c
+Warning: Dest hash: 5cd04ad10f4c0f95c4de25664af62347
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_StreamRate.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_StreamRate.pyc
+Warning: Source hash: 83f6d90c2c1ce9ce962d5b16ce4b90f2
+Warning: Dest hash: fb3743e68330df0a3bc019bc279b28f0
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_LogRequestEnd.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_LogRequestEnd.pyc
+Warning: Source hash: c1a0bbfb6f9cb3e2ef2bd85585b09cc0
+Warning: Dest hash: 03371524f68a3b0218248975ba1eb189
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_ParamPull.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_ParamPull.pyc
+Warning: Source hash: 96463bae1f1232e34e09fe9fa00479a1
+Warning: Dest hash: 7cb2576061dc24e357ed9f2b391a96c0
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/srv/_WaypointSetCurrent.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/srv/_WaypointSetCurrent.pyc
+Warning: Source hash: 8eb6c2f7db1b69ab187982d2741fc5a4
+Warning: Dest hash: 0d696363f6b718fdc3ddd45938e48c83
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_ESCInfo.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_ESCInfo.pyc
+Warning: Source hash: 612618d890c377c1d4f9ecf5df15a576
+Warning: Dest hash: 704a5f8459c3036ba22cfd88d1aa3a33
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_MagnetometerReporter.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_MagnetometerReporter.pyc
+Warning: Source hash: 6b584244c0787115f7e657950bfb3559
+Warning: Dest hash: 9e136c9e237cb57d8d0ee75a34062770
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_ParamValue.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_ParamValue.pyc
+Warning: Source hash: 2c0da648aa04bfb5e6400cd0a5788d41
+Warning: Dest hash: 34a8fa6bb6d8d4455b49ea419aceaa04
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_ADSBVehicle.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_ADSBVehicle.pyc
+Warning: Source hash: fd4ab34366af64f793c1f43c6f9d1ebb
+Warning: Dest hash: c7c704e5af747e049679886aebdb35dd
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_StatusText.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_StatusText.pyc
+Warning: Source hash: 355808b05a7e634c76bfbcd8aa2ee8a5
+Warning: Dest hash: e8a209acafaedf2fb8da6e13ec3c8e28
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_FileEntry.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_FileEntry.pyc
+Warning: Source hash: 48fce2b91102253f7e5ba4fbcd55ea28
+Warning: Dest hash: 2d460054a19c81cb0796414d50a2be66
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_ESCTelemetryItem.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_ESCTelemetryItem.pyc
+Warning: Source hash: 26c91392101d2be4df2168ce0f1821d8
+Warning: Dest hash: 968b51a60aa7c109f8237093523292a1
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_Vibration.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_Vibration.pyc
+Warning: Source hash: e881c2086670c88d29c33fd6597a53d6
+Warning: Dest hash: 705d3b09016b64f8b32e3a79e4d7c6e5
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_HilSensor.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_HilSensor.pyc
+Warning: Source hash: e400d82fe0d41f9f86828a9db0fd286c
+Warning: Dest hash: 796e700e92cbab376f88c17ddd84d6ba
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_LandingTarget.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_LandingTarget.pyc
+Warning: Source hash: b662e9ea2e1a600e542dd69840de0fa1
+Warning: Dest hash: d7dd3da69702c192e8859fc39063348b
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_ESCStatus.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_ESCStatus.pyc
+Warning: Source hash: 5ca8151f642bde0604e135fa544a0c77
+Warning: Dest hash: bcf0b796c961de9d5feffac90ecb946f
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_HilStateQuaternion.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_HilStateQuaternion.pyc
+Warning: Source hash: 33aabba2be39c939032c2f14d89ccd0f
+Warning: Dest hash: f77314199f9bee05ec0e04ed539c6c33
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_CompanionProcessStatus.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_CompanionProcessStatus.pyc
+Warning: Source hash: 447aac84c38d6f6a6e5029624732fa7d
+Warning: Dest hash: 5e7e98079f03e3aae79cdd718bd087a9
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_CameraImageCaptured.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_CameraImageCaptured.pyc
+Warning: Source hash: 7a748c8af35b48e9c8edd5f9adfd68e8
+Warning: Dest hash: f9073ad5027366567a7211c70c5667a7
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_RCOut.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_RCOut.pyc
+Warning: Source hash: 1e54bb47f828e316baf3e530544f62b1
+Warning: Dest hash: 48f3e5d2c1479cd2c724d5762e6998e8
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_HilActuatorControls.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_HilActuatorControls.pyc
+Warning: Source hash: 3094fe930e9fa458e36feb963432489b
+Warning: Dest hash: 2abf7aba006f95af83d6b1d4c0e2e45b
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_Mavlink.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_Mavlink.pyc
+Warning: Source hash: d3942e8cfe995d8c7ae6d143b7af3ee4
+Warning: Dest hash: 81b2a2c8c7416eee9a4cda14d8ec4d1e
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/__init__.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/__init__.pyc
+Warning: Source hash: d9b9aeea265408355ff433800f3e36ed
+Warning: Dest hash: f294964786462dfc9a6e1b54047aa99b
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_ESCStatusItem.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_ESCStatusItem.pyc
+Warning: Source hash: bf493c57e4e67b906cf2afc25dc9d544
+Warning: Dest hash: b02f6de5d0db2dba39a6c96739accd4d
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_HilGPS.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_HilGPS.pyc
+Warning: Source hash: 24a22131c87649069233570675dafd54
+Warning: Dest hash: e612787ac08798a3114055f50cad38f5
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_Waypoint.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_Waypoint.pyc
+Warning: Source hash: e9be106058f0005bc2dcab635524e3b8
+Warning: Dest hash: 7e78cd3db74ddccdddd27a8c2932b04e
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_PositionTarget.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_PositionTarget.pyc
+Warning: Source hash: e1039a70f5182449e97f248cb1bd2d88
+Warning: Dest hash: f88a0981d10c980257e56fed3496c39d
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_CamIMUStamp.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_CamIMUStamp.pyc
+Warning: Source hash: c19ee6fb4616c7cf462bf20b03758ca3
+Warning: Dest hash: 89e0aca2e49e3943710c89dabf344d8a
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_VFR_HUD.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_VFR_HUD.pyc
+Warning: Source hash: 9e5fdc7f8751e2b038ddb519a76b49e3
+Warning: Dest hash: 778ea786280da11e4aa8ff52baf1a1c1
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_HilControls.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_HilControls.pyc
+Warning: Source hash: 5f13a68889229504f66ddb092d3a67d4
+Warning: Dest hash: 483bc89f9838cd574dd4f7e01099fc2d
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_Altitude.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_Altitude.pyc
+Warning: Source hash: c9fc7201c174927c4c4cfa956368a43a
+Warning: Dest hash: ce652fbfb03719320f4e8f9b1579fb21
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_NavControllerOutput.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_NavControllerOutput.pyc
+Warning: Source hash: 03663837861a49daf5669b2a9d910a1c
+Warning: Dest hash: 3ec2aab24a223da1a166b909a8398092
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_PlayTuneV2.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_PlayTuneV2.pyc
+Warning: Source hash: 035149d51ff4fac98ffdd401afd87fd5
+Warning: Dest hash: aa07692bf7bea7ec16152330f35c367b
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_LogEntry.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_LogEntry.pyc
+Warning: Source hash: 5812c2b6f3ddb1d4606437980f163cd5
+Warning: Dest hash: 228e297043587bd5d59cfec89a39c478
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_RTKBaseline.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_RTKBaseline.pyc
+Warning: Source hash: 31c825e699e27adf4304cfdc890ca118
+Warning: Dest hash: 1cb86a0f6731dbbcda550e5f4f2b3509
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_RTCM.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_RTCM.pyc
+Warning: Source hash: 2ece30c07d073bb233806692452edf8b
+Warning: Dest hash: 86cd28f03a9a62440e59c0a5ea495e49
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_TerrainReport.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_TerrainReport.pyc
+Warning: Source hash: 3022caaf73a5c3e790bfe3258d3e3808
+Warning: Dest hash: af1a2d2eda7abb8f48a82f2512f71a26
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_WaypointReached.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_WaypointReached.pyc
+Warning: Source hash: b9ed378c137b16b72b69df4de6545b57
+Warning: Dest hash: 5a5cca35f5650eb0b96feabc9d2682cf
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_HomePosition.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_HomePosition.pyc
+Warning: Source hash: 2ee737efeae2854f15383bf04de0b927
+Warning: Dest hash: 2e806599fc1969aeacc8bca9d600747f
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_EstimatorStatus.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_EstimatorStatus.pyc
+Warning: Source hash: b86a0928fd5925e8d372d42f7ecff855
+Warning: Dest hash: e891ff18fa91f61e0290119c419292ae
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_BatteryStatus.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_BatteryStatus.pyc
+Warning: Source hash: 2a6e4a922e6fd16eb536d13588daa09a
+Warning: Dest hash: effe2210609155375999145b752f08b1
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_GPSRAW.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_GPSRAW.pyc
+Warning: Source hash: 9faf5f85ad9a4e7222360788deda8afd
+Warning: Dest hash: 70654bc51815925d2d4c6d5c21b0fb6d
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_LogData.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_LogData.pyc
+Warning: Source hash: b6f2d5cea2a6794964b4b926655b215e
+Warning: Dest hash: f1d5f1d5f9cf9cadd831c0187ece61df
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_Thrust.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_Thrust.pyc
+Warning: Source hash: 46451ca484ddee129e33366f7cb5de2c
+Warning: Dest hash: 144fe20b2f96aa55bf10e71f127801fd
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_CommandCode.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_CommandCode.pyc
+Warning: Source hash: ea4670f5ce901fe1f48039ed85c38acb
+Warning: Dest hash: 2ff94af3f7904fdc29e32a8615628efa
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_OpticalFlowRad.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_OpticalFlowRad.pyc
+Warning: Source hash: eff08c57d0e518c9c05ed58c16c3b5d6
+Warning: Dest hash: 4183f6e6c39ba83d5f3853b75719d3c0
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_WaypointList.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_WaypointList.pyc
+Warning: Source hash: e163ee0668c9214792b17a3a2cb72365
+Warning: Dest hash: 8ddadf7d584a9261395139ea1ddf70dd
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_VehicleInfo.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_VehicleInfo.pyc
+Warning: Source hash: 008aa129e7406b1568ecdfdb2af53950
+Warning: Dest hash: 260d0a98d1d75f483bc6ce8c90690bb7
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_OnboardComputerStatus.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_OnboardComputerStatus.pyc
+Warning: Source hash: 459b3f7fb3c430d242f4c8c663f4e39a
+Warning: Dest hash: f2bf07e471aec77faa1db631f80908fa
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_State.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_State.pyc
+Warning: Source hash: c12e5b34f39782ab317c977f9b8cb224
+Warning: Dest hash: cc1555cb34c93ee138748e59d02a86c5
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_WheelOdomStamped.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_WheelOdomStamped.pyc
+Warning: Source hash: 1038b68f60a950c0a1e4075e80af425a
+Warning: Dest hash: 31083d44263dbbdc14662c4c30581de2
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_ExtendedState.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_ExtendedState.pyc
+Warning: Source hash: abde411389f7ca0b57c9ef002e702479
+Warning: Dest hash: e0b97585d0de2c5b1e14ee4f23b91fdc
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_ESCInfoItem.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_ESCInfoItem.pyc
+Warning: Source hash: 3acf2f934fecdf558d52044c0432a75e
+Warning: Dest hash: 01c5cac889aa700f21d940239e1da025
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_GPSRTK.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_GPSRTK.pyc
+Warning: Source hash: aa0b68f9a39734a873f43e0c2e58633f
+Warning: Dest hash: de187899d579e98630a524ea4f6e86e4
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_DebugValue.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_DebugValue.pyc
+Warning: Source hash: a7798c86c3f535da0c4cda87f6459fe6
+Warning: Dest hash: c26061b968b3d04fb451a04dbb5476fe
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_GPSINPUT.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_GPSINPUT.pyc
+Warning: Source hash: 1ea46313e189496f9a6708cad28f0995
+Warning: Dest hash: 010a2d1601229bd8b5aa0add609ef5b3
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_ESCTelemetry.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_ESCTelemetry.pyc
+Warning: Source hash: b3afc8e24efb5c57872020e0f350e5d6
+Warning: Dest hash: c150435d08ba2eeb2e98a7266b0ff863
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_AttitudeTarget.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_AttitudeTarget.pyc
+Warning: Source hash: b4a9a08bc78e96bd51db171f78b88467
+Warning: Dest hash: abf46a329d7366ae1098ad7931a333c3
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_GlobalPositionTarget.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_GlobalPositionTarget.pyc
+Warning: Source hash: 2ff22a0fc83361df91061eded4b4d5f9
+Warning: Dest hash: 7419f2731ebc42fad1e12fbcf99daea2
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_OverrideRCIn.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_OverrideRCIn.pyc
+Warning: Source hash: f483c51a5f2f57eafec1c2b398a58493
+Warning: Dest hash: bc1be705f2926c33ad6b796fc675af85
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_Tunnel.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_Tunnel.pyc
+Warning: Source hash: 7faa985158b9c54977df15a87e583a37
+Warning: Dest hash: 4733d2ea2ebad8a942f142a83be96c52
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_ActuatorControl.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_ActuatorControl.pyc
+Warning: Source hash: a0dca1db19cad7f29540437f3a0b5e9c
+Warning: Dest hash: a8da52cfada9c03fec4549152149c6eb
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_Trajectory.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_Trajectory.pyc
+Warning: Source hash: ce3b3875ea885b912f689536a3259e25
+Warning: Dest hash: a3013a6d426ac7a6b9c3fdae630b12a5
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_RadioStatus.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_RadioStatus.pyc
+Warning: Source hash: 69bfb1d4882eadd9885294df74ee3654
+Warning: Dest hash: d2ef0dd35607091d8d83ad4a90298982
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_RCIn.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_RCIn.pyc
+Warning: Source hash: 83edf23861d3ae2b1bcde2140dd52c8b
+Warning: Dest hash: ba078c8dc433220b6404f1d560ebe548
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_Param.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_Param.pyc
+Warning: Source hash: e8794e586ea3a79caf8333488c6fc89a
+Warning: Dest hash: e3b8e1e144cc60d584da2bf44a0d4fbf
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_MountControl.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_MountControl.pyc
+Warning: Source hash: 2ac09d8cab941e26810d71821a6035a4
+Warning: Dest hash: 045a594a11d30eff998cc665b062deb6
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_TimesyncStatus.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_TimesyncStatus.pyc
+Warning: Source hash: 7dd402a103b9f6c7671d6d0e3c34f80d
+Warning: Dest hash: 4ecdf82f0372cb4bbd4b30f9f4ae490e
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/lib/python2.7/dist-packages/mavros_msgs/msg/_ManualControl.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/mavros_msgs/msg/_ManualControl.pyc
+Warning: Source hash: 14af041b14b92b118f14328b36f5ddb8
+Warning: Dest hash: ed8cb31a178b613f112292f21bab1cfc
+Warning: Cannot symlink from /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_msgs/__pycache__/_setup_util.cpython-36.pyc to existing file /home/minidrone/repos/optiTrackDrone/mav-ws/devel/__pycache__/_setup_util.cpython-36.pyc
+Warning: Source hash: e0136f46db15e605dd2ad111c3f7ac60
+Warning: Dest hash: 8d846bba62f6931c8d8273bd6e1ea307
