@@ -5,7 +5,19 @@ import rospy
 from iq_gnc.py_gnc_functions import *
 # To print colours (optional).
 from iq_gnc.PrintColours import *
+from std_msgs.msg import String, Odometry
 
+'''
+will consistently wait for data for arm-receive message 
+wait for message from FCU for confirming arm*
+'''
+
+def callback(PoseData):
+    rospy.loginfo(rospy.get_caller_id() + PoseData.data)
+    rospy.loginfo("recorded info: %s", PoseData.data)
+
+def listener():
+    rospy.Subscriber('/vrpn_client_node/<rigid body name>/pose', Pose, callback) #check message type
 
 def main():
     # Initializing ROS node.
@@ -19,7 +31,8 @@ def main():
     drone.wait4start()
 
     # Create local reference frame.
-    drone.initialize_local_frame()
+    drone.initialize_local_frame() # -> needs to be replaced with frame world id
+
     # Request takeoff with an altitude of 3m.
     drone.takeoff(3)
     # Specify control loop rate. We recommend a low frequency to not over load the FCU with messages. Too many messages will cause the drone to be sluggish.
@@ -34,7 +47,7 @@ def main():
         drone.set_destination(
             x=goals[i][0], y=goals[i][1], z=goals[i][2], psi=goals[i][3])
         rate.sleep()
-        if drone.check_waypoint_reached():
+        if drone.check_waypoint_reached(Pose): # -> use pose data from sub to check
             i += 1
     # Land after all waypoints is reached.
     drone.land()

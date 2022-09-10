@@ -20,7 +20,7 @@ class gnc_api:
         """This function is called at the beginning of a program and will start of the communication links to the FCU.
         """
         self.current_state_g = State()
-        self.current_pose_g = Odometry()
+        self.current_pose_g = Odometry() #this is GPS message from nav_msg.msg
         self.correction_vector_g = Pose()
         self.local_offset_pose_g = Point()
         self.waypoint_g = PoseStamped()
@@ -368,7 +368,7 @@ class gnc_api:
             rospy.logerr(CRED2 + "Takeoff failed" + CEND)
             return -1
 
-    def initialize_local_frame(self):
+    def initialize_local_frame(self): #add parameters for using world frame from mocap
         """This function will create a local reference frame based on the starting location of the drone. This is typically done right before takeoff. This reference frame is what all of the the set destination commands will be in reference to."""
         self.local_offset_g = 0.0
 
@@ -399,7 +399,7 @@ class gnc_api:
         rospy.loginfo(
             CGREEN2 + "The X-Axis is facing: {}".format(self.local_offset_g) + CEND)
 
-    def check_waypoint_reached(self, pos_tol=0.3, head_tol=0.01):
+    def check_waypoint_reached(self, Pose, pos_tol=0.3, head_tol=0.01): # use pose data to update if waypoint reached 
         """This function checks if the waypoint is reached within given tolerance and returns an int of 1 or 0. This function can be used to check when to request the next waypoint in the mission.
 
         Args:

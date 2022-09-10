@@ -1,6 +1,0 @@
-devel_space: /home/minidrone/repos/optiTrackDrone/mav-ws/devel
-install: false
-install_space: /home/minidrone/repos/optiTrackDrone/mav-ws/install
-profile: default
-source_space: /home/minidrone/repos/optiTrackDrone/mav-ws/src
-workspace: /home/minidrone/repos/optiTrackDrone/mav-ws
