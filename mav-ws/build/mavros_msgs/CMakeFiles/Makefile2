@@ -95,7 +95,6 @@ clean: CMakeFiles/mavros_msgs_genpy.dir/clean
 # Target rules for target CMakeFiles/mavros_msgs_generate_messages_py.dir
 
 # All Build rule for target.
-CMakeFiles/mavros_msgs_generate_messages_py.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_CommandLong.dir/all
 CMakeFiles/mavros_msgs_generate_messages_py.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_Altitude.dir/all
 CMakeFiles/mavros_msgs_generate_messages_py.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_GPSRTK.dir/all
 CMakeFiles/mavros_msgs_generate_messages_py.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_LogEntry.dir/all
@@ -199,6 +198,7 @@ CMakeFiles/mavros_msgs_generate_messages_py.dir/all: CMakeFiles/_mavros_msgs_gen
 CMakeFiles/mavros_msgs_generate_messages_py.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_RTCM.dir/all
 CMakeFiles/mavros_msgs_generate_messages_py.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_ParamPull.dir/all
 CMakeFiles/mavros_msgs_generate_messages_py.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_ESCStatusItem.dir/all
+CMakeFiles/mavros_msgs_generate_messages_py.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_CommandLong.dir/all
 	$(MAKE) -f CMakeFiles/mavros_msgs_generate_messages_py.dir/build.make CMakeFiles/mavros_msgs_generate_messages_py.dir/depend
 	$(MAKE) -f CMakeFiles/mavros_msgs_generate_messages_py.dir/build.make CMakeFiles/mavros_msgs_generate_messages_py.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles --progress-num=81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100 "Built target mavros_msgs_generate_messages_py"
@@ -230,7 +230,6 @@ clean: CMakeFiles/mavros_msgs_generate_messages_py.dir/clean
 # Target rules for target CMakeFiles/mavros_msgs_generate_messages_nodejs.dir
 
 # All Build rule for target.
-CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_CommandLong.dir/all
 CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_Altitude.dir/all
 CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_GPSRTK.dir/all
 CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_LogEntry.dir/all
@@ -334,6 +333,7 @@ CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_mavros_msgs
 CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_RTCM.dir/all
 CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_ParamPull.dir/all
 CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_ESCStatusItem.dir/all
+CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_CommandLong.dir/all
 	$(MAKE) -f CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/depend
 	$(MAKE) -f CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/build.make CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles --progress-num=61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80 "Built target mavros_msgs_generate_messages_nodejs"
@@ -365,7 +365,6 @@ clean: CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/clean
 # Target rules for target CMakeFiles/mavros_msgs_generate_messages_eus.dir
 
 # All Build rule for target.
-CMakeFiles/mavros_msgs_generate_messages_eus.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_CommandLong.dir/all
 CMakeFiles/mavros_msgs_generate_messages_eus.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_Altitude.dir/all
 CMakeFiles/mavros_msgs_generate_messages_eus.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_GPSRTK.dir/all
 CMakeFiles/mavros_msgs_generate_messages_eus.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_LogEntry.dir/all
@@ -469,6 +468,7 @@ CMakeFiles/mavros_msgs_generate_messages_eus.dir/all: CMakeFiles/_mavros_msgs_ge
 CMakeFiles/mavros_msgs_generate_messages_eus.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_RTCM.dir/all
 CMakeFiles/mavros_msgs_generate_messages_eus.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_ParamPull.dir/all
 CMakeFiles/mavros_msgs_generate_messages_eus.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_ESCStatusItem.dir/all
+CMakeFiles/mavros_msgs_generate_messages_eus.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_CommandLong.dir/all
 	$(MAKE) -f CMakeFiles/mavros_msgs_generate_messages_eus.dir/build.make CMakeFiles/mavros_msgs_generate_messages_eus.dir/depend
 	$(MAKE) -f CMakeFiles/mavros_msgs_generate_messages_eus.dir/build.make CMakeFiles/mavros_msgs_generate_messages_eus.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles --progress-num=22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41 "Built target mavros_msgs_generate_messages_eus"
@@ -500,7 +500,6 @@ clean: CMakeFiles/mavros_msgs_generate_messages_eus.dir/clean
 # Target rules for target CMakeFiles/mavros_msgs_generate_messages_cpp.dir
 
 # All Build rule for target.
-CMakeFiles/mavros_msgs_generate_messages_cpp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_CommandLong.dir/all
 CMakeFiles/mavros_msgs_generate_messages_cpp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_Altitude.dir/all
 CMakeFiles/mavros_msgs_generate_messages_cpp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_GPSRTK.dir/all
 CMakeFiles/mavros_msgs_generate_messages_cpp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_LogEntry.dir/all
@@ -604,6 +603,7 @@ CMakeFiles/mavros_msgs_generate_messages_cpp.dir/all: CMakeFiles/_mavros_msgs_ge
 CMakeFiles/mavros_msgs_generate_messages_cpp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_RTCM.dir/all
 CMakeFiles/mavros_msgs_generate_messages_cpp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_ParamPull.dir/all
 CMakeFiles/mavros_msgs_generate_messages_cpp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_ESCStatusItem.dir/all
+CMakeFiles/mavros_msgs_generate_messages_cpp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_CommandLong.dir/all
 	$(MAKE) -f CMakeFiles/mavros_msgs_generate_messages_cpp.dir/build.make CMakeFiles/mavros_msgs_generate_messages_cpp.dir/depend
 	$(MAKE) -f CMakeFiles/mavros_msgs_generate_messages_cpp.dir/build.make CMakeFiles/mavros_msgs_generate_messages_cpp.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles --progress-num=3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21 "Built target mavros_msgs_generate_messages_cpp"
@@ -1788,10 +1788,10 @@ clean: CMakeFiles/_mavros_msgs_generate_messages_check_deps_ExtendedState.dir/cl
 
 # All Build rule for target.
 CMakeFiles/mavros_msgs_generate_messages.dir/all: CMakeFiles/mavros_msgs_generate_messages_lisp.dir/all
-CMakeFiles/mavros_msgs_generate_messages.dir/all: CMakeFiles/mavros_msgs_generate_messages_py.dir/all
 CMakeFiles/mavros_msgs_generate_messages.dir/all: CMakeFiles/mavros_msgs_generate_messages_nodejs.dir/all
 CMakeFiles/mavros_msgs_generate_messages.dir/all: CMakeFiles/mavros_msgs_generate_messages_eus.dir/all
 CMakeFiles/mavros_msgs_generate_messages.dir/all: CMakeFiles/mavros_msgs_generate_messages_cpp.dir/all
+CMakeFiles/mavros_msgs_generate_messages.dir/all: CMakeFiles/mavros_msgs_generate_messages_py.dir/all
 	$(MAKE) -f CMakeFiles/mavros_msgs_generate_messages.dir/build.make CMakeFiles/mavros_msgs_generate_messages.dir/depend
 	$(MAKE) -f CMakeFiles/mavros_msgs_generate_messages.dir/build.make CMakeFiles/mavros_msgs_generate_messages.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles --progress-num= "Built target mavros_msgs_generate_messages"
@@ -2308,7 +2308,6 @@ clean: CMakeFiles/_mavros_msgs_generate_messages_check_deps_ADSBVehicle.dir/clea
 # Target rules for target CMakeFiles/mavros_msgs_generate_messages_lisp.dir
 
 # All Build rule for target.
-CMakeFiles/mavros_msgs_generate_messages_lisp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_CommandLong.dir/all
 CMakeFiles/mavros_msgs_generate_messages_lisp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_Altitude.dir/all
 CMakeFiles/mavros_msgs_generate_messages_lisp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_GPSRTK.dir/all
 CMakeFiles/mavros_msgs_generate_messages_lisp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_LogEntry.dir/all
@@ -2412,6 +2411,7 @@ CMakeFiles/mavros_msgs_generate_messages_lisp.dir/all: CMakeFiles/_mavros_msgs_g
 CMakeFiles/mavros_msgs_generate_messages_lisp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_RTCM.dir/all
 CMakeFiles/mavros_msgs_generate_messages_lisp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_ParamPull.dir/all
 CMakeFiles/mavros_msgs_generate_messages_lisp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_ESCStatusItem.dir/all
+CMakeFiles/mavros_msgs_generate_messages_lisp.dir/all: CMakeFiles/_mavros_msgs_generate_messages_check_deps_CommandLong.dir/all
 	$(MAKE) -f CMakeFiles/mavros_msgs_generate_messages_lisp.dir/build.make CMakeFiles/mavros_msgs_generate_messages_lisp.dir/depend
 	$(MAKE) -f CMakeFiles/mavros_msgs_generate_messages_lisp.dir/build.make CMakeFiles/mavros_msgs_generate_messages_lisp.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles --progress-num=42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60 "Built target mavros_msgs_generate_messages_lisp"

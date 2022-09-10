@@ -1,23 +1,23 @@
 Determining if the pthread_create exist failed with the following output:
 Change Dir: /home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_772d0/fast"
-/usr/bin/make -f CMakeFiles/cmTC_772d0.dir/build.make CMakeFiles/cmTC_772d0.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_7dcf2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7dcf2.dir/build.make CMakeFiles/cmTC_7dcf2.dir/build
 make[1]: Entering directory '/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_772d0.dir/CheckSymbolExists.c.o
-/usr/bin/cc    -o CMakeFiles/cmTC_772d0.dir/CheckSymbolExists.c.o   -c /home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_772d0
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_772d0.dir/link.txt --verbose=1
-/usr/bin/cc      -rdynamic CMakeFiles/cmTC_772d0.dir/CheckSymbolExists.c.o  -o cmTC_772d0 
-CMakeFiles/cmTC_772d0.dir/CheckSymbolExists.c.o: In function `main':
+Building C object CMakeFiles/cmTC_7dcf2.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_7dcf2.dir/CheckSymbolExists.c.o   -c /home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_7dcf2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7dcf2.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_7dcf2.dir/CheckSymbolExists.c.o  -o cmTC_7dcf2 
+CMakeFiles/cmTC_7dcf2.dir/CheckSymbolExists.c.o: In function `main':
 CheckSymbolExists.c:(.text+0x14): undefined reference to `pthread_create'
 CheckSymbolExists.c:(.text+0x18): undefined reference to `pthread_create'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_772d0.dir/build.make:97: recipe for target 'cmTC_772d0' failed
-make[1]: *** [cmTC_772d0] Error 1
+CMakeFiles/cmTC_7dcf2.dir/build.make:97: recipe for target 'cmTC_7dcf2' failed
+make[1]: *** [cmTC_7dcf2] Error 1
 make[1]: Leaving directory '/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_772d0/fast' failed
-make: *** [cmTC_772d0/fast] Error 2
+Makefile:126: recipe for target 'cmTC_7dcf2/fast' failed
+make: *** [cmTC_7dcf2/fast] Error 2
 
 File /home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
@@ -37,20 +37,20 @@ int main(int argc, char** argv)
 Determining if the function pthread_create exists in the pthreads failed with the following output:
 Change Dir: /home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b6eaf/fast"
-/usr/bin/make -f CMakeFiles/cmTC_b6eaf.dir/build.make CMakeFiles/cmTC_b6eaf.dir/build
+Run Build Command:"/usr/bin/make" "cmTC_0398e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0398e.dir/build.make CMakeFiles/cmTC_0398e.dir/build
 make[1]: Entering directory '/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_b6eaf.dir/CheckFunctionExists.c.o
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_b6eaf.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
-Linking C executable cmTC_b6eaf
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b6eaf.dir/link.txt --verbose=1
-/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_b6eaf.dir/CheckFunctionExists.c.o  -o cmTC_b6eaf -lpthreads 
+Building C object CMakeFiles/cmTC_0398e.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_0398e.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_0398e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0398e.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_0398e.dir/CheckFunctionExists.c.o  -o cmTC_0398e -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_b6eaf.dir/build.make:97: recipe for target 'cmTC_b6eaf' failed
-make[1]: *** [cmTC_b6eaf] Error 1
+CMakeFiles/cmTC_0398e.dir/build.make:97: recipe for target 'cmTC_0398e' failed
+make[1]: *** [cmTC_0398e] Error 1
 make[1]: Leaving directory '/home/minidrone/repos/optiTrackDrone/mav-ws/build/mavros_msgs/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_b6eaf/fast' failed
-make: *** [cmTC_b6eaf/fast] Error 2
+Makefile:126: recipe for target 'cmTC_0398e/fast' failed
+make: *** [cmTC_0398e/fast] Error 2
 
 

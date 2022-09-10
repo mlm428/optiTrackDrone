@@ -23,9 +23,9 @@
 [ 71%] Built target natnet_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target natnet_msgs_generate_messages_cpp[0m
 [ 85%] [34m[1mGenerating C++ code from natnet_msgs/MarkerList.msg[0m
+[ 85%] Built target natnet_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target natnet_msgs_generate_messages_nodejs[0m
 [100%] [34m[1mGenerating Javascript code from natnet_msgs/MarkerList.msg[0m
 [100%] Built target natnet_msgs_generate_messages_nodejs
-[100%] Built target natnet_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target natnet_msgs_generate_messages[0m
 [100%] Built target natnet_msgs_generate_messages

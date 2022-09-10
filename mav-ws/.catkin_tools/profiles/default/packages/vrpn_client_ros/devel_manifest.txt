@@ -1,0 +1,8 @@
+vrpn_client_ros
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/vrpn_client_ros/cmake.lock /home/minidrone/repos/optiTrackDrone/mav-ws/devel/./cmake.lock
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/vrpn_client_ros/share/vrpn_client_ros/cmake/vrpn_client_rosConfig.cmake /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/vrpn_client_ros/cmake/vrpn_client_rosConfig.cmake
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/vrpn_client_ros/share/vrpn_client_ros/cmake/vrpn_client_rosConfig-version.cmake /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/vrpn_client_ros/cmake/vrpn_client_rosConfig-version.cmake
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/vrpn_client_ros/lib/libvrpn_client_ros.so /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/libvrpn_client_ros.so
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/vrpn_client_ros/lib/pkgconfig/vrpn_client_ros.pc /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/pkgconfig/vrpn_client_ros.pc
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/vrpn_client_ros/lib/vrpn_client_ros/vrpn_tracker_node /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/vrpn_client_ros/vrpn_tracker_node
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/vrpn_client_ros/lib/vrpn_client_ros/vrpn_client_node /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/vrpn_client_ros/vrpn_client_node

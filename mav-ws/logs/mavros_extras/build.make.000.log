@@ -1,24 +1,26 @@
 [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target uuid_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target visualization[0m
 [  0%] Built target roscpp_generate_messages_lisp
-[  0%] Built target uuid_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target uuid_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
 [  2%] [32mBuilding CXX object CMakeFiles/visualization.dir/src/visualization.cpp.o[0m
-[  2%] Built target actionlib_msgs_generate_messages_nodejs
 [  2%] Built target std_msgs_generate_messages_cpp
-[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  2%] Built target uuid_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
 [35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
-[  2%] Built target roscpp_generate_messages_py
+[  2%] Built target actionlib_msgs_generate_messages_nodejs
 [  2%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
 [35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[  2%] Built target roscpp_generate_messages_py
 [  2%] Built target trajectory_msgs_generate_messages_eus
-[  2%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[  2%] Built target visualization_msgs_generate_messages_lisp
 [  2%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
 [35m[1mScanning dependencies of target geographic_msgs_generate_messages_py[0m
 [  2%] Built target trajectory_msgs_generate_messages_py
 [  2%] Built target geographic_msgs_generate_messages_py
@@ -27,40 +29,40 @@
 [  2%] Built target roscpp_generate_messages_cpp
 [  2%] Built target sensor_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
-[  2%] Built target actionlib_generate_messages_cpp
 [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  2%] Built target actionlib_generate_messages_cpp
 [  2%] Built target geometry_msgs_generate_messages_nodejs
-[  2%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
 [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  2%] Built target geometry_msgs_generate_messages_py
 [  2%] Built target roscpp_generate_messages_nodejs
 [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
-[  2%] Built target std_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target uuid_msgs_generate_messages_cpp[0m
+[  2%] Built target std_msgs_generate_messages_lisp
 [  2%] Built target uuid_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
 [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [  2%] Built target std_msgs_generate_messages_nodejs
 [  2%] Built target std_msgs_generate_messages_py
 [35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_eus[0m
-[  2%] Built target diagnostic_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  2%] Built target diagnostic_msgs_generate_messages_eus
 [  2%] Built target actionlib_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target uuid_msgs_generate_messages_nodejs[0m
-[  2%] Built target uuid_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target uuid_msgs_generate_messages_py[0m
+[  2%] Built target uuid_msgs_generate_messages_nodejs
 [  2%] Built target uuid_msgs_generate_messages_py
 [35m[1mScanning dependencies of target mavros_msgs_generate_messages_cpp[0m
-[  2%] Built target mavros_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[  2%] Built target mavros_msgs_generate_messages_cpp
 [  2%] Built target trajectory_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target mavros_msgs_generate_messages_eus[0m
-[  2%] Built target mavros_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  2%] Built target mavros_msgs_generate_messages_eus
 [  2%] Built target sensor_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
-[  2%] Built target nav_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target mavros_msgs_generate_messages_py[0m
+[  2%] Built target nav_msgs_generate_messages_cpp
 [  2%] Built target mavros_msgs_generate_messages_py
 [35m[1mScanning dependencies of target mavros_msgs_generate_messages_lisp[0m
 [  2%] Built target mavros_msgs_generate_messages_lisp
@@ -158,33 +160,17 @@
 [  2%] Built target geographic_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target diagnostic_msgs_generate_messages_lisp[0m
 [  2%] Built target diagnostic_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
-[  2%] Built target geometry_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target servo_state_publisher[0m
 [  5%] [32mBuilding CXX object CMakeFiles/servo_state_publisher.dir/src/servo_state_publisher.cpp.o[0m
 [  8%] [32m[1mLinking CXX executable /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/lib/mavros_extras/visualization[0m
-[  8%] Built target visualization
-[35m[1mScanning dependencies of target mavros_extras[0m
 [ 11%] [32m[1mLinking CXX executable /home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher[0m
+[ 11%] Built target visualization
+[35m[1mScanning dependencies of target mavros_extras[0m
 [ 11%] Built target servo_state_publisher
 [ 14%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/adsb.cpp.o[0m
 [ 17%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/cam_imu_sync.cpp.o[0m
 [ 20%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/camera.cpp.o[0m
 [ 22%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/companion_process_status.cpp.o[0m
-In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
-                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
-                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
-                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_extras/src/plugins/adsb.cpp:17[m[K:
-[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
- #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
-                                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
-                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
-                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
-                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_extras/src/plugins/companion_process_status.cpp:17[m[K:
-[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
- #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
-                                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
 In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
@@ -195,7 +181,21 @@ In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/ma
 In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
+                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_extras/src/plugins/adsb.cpp:17[m[K:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
+ #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
+                                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
+                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
+                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_extras/src/plugins/cam_imu_sync.cpp:17[m[K:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
+ #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
+                                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
+                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
+                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
+                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_extras/src/plugins/companion_process_status.cpp:17[m[K:
 [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
  #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
                                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
@@ -243,18 +243,10 @@ In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/ma
 In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
-                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_extras/src/plugins/gps_input.cpp:17[m[K:
-[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
- #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
-                                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
-                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
-                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_extras/src/plugins/fake_gps.cpp:21[m[K:
 [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
  #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
                                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-[ 48%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/gps_status.cpp.o[0m
 In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
@@ -262,6 +254,14 @@ In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/ma
 [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
  #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
                                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
+                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
+                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
+                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_extras/src/plugins/gps_input.cpp:17[m[K:
+[01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
+ #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
+                                [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 48%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/gps_status.cpp.o[0m
 [ 51%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/landing_target.cpp.o[0m
 [ 54%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/log_transfer.cpp.o[0m
 [ 57%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/mag_calibration_status.cpp.o[0m
@@ -305,18 +305,19 @@ In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/ma
 In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
-                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_extras/src/plugins/obstacle_distance.cpp:17[m[K:
+                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_extras/src/plugins/mount_control.cpp:17[m[K:
 [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
  #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
                                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
 In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
-                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_extras/src/plugins/mount_control.cpp:17[m[K:
+                 from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_extras/src/plugins/obstacle_distance.cpp:17[m[K:
 [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
  #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
                                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
 [ 71%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/play_tune.cpp.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/px4flow.cpp.o[0m
 In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
@@ -324,7 +325,6 @@ In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/ma
 [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
  #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
                                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-[ 74%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/px4flow.cpp.o[0m
 [ 77%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/rangefinder.cpp.o[0m
 In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
@@ -333,7 +333,6 @@ In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/ma
 [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
  #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
                                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-[ 80%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/terrain.cpp.o[0m
 In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
@@ -341,6 +340,7 @@ In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/ma
 [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
  #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
                                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 80%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/terrain.cpp.o[0m
 [ 82%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/trajectory.cpp.o[0m
 In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
@@ -365,7 +365,6 @@ In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/ma
 [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
  #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
                                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-[ 91%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/vision_pose_estimate.cpp.o[0m
 In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
@@ -373,6 +372,7 @@ In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/ma
 [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros_msgs/include/mavros_msgs/mavlink_convert.h:45:32:[m[K [01;35m[Kwarning: [m[Kunknown option after ‘[01m[K#pragma GCC diagnostic[m[K’ kind [[01;35m[K-Wpragmas[m[K]
  #pragma GCC diagnostic ignored [01;35m[K"-Waddress-of-packed-member"[m[K
                                 [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[ 91%] [32mBuilding CXX object CMakeFiles/mavros_extras.dir/src/plugins/vision_pose_estimate.cpp.o[0m
 In file included from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/utils.h:22:0[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_uas.h:30[m[K,
                  from [01m[K/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include/mavros/mavros_plugin.h:25[m[K,
