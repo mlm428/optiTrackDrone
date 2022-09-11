@@ -1,1 +1,1 @@
-./mav-ws/src/build
+./mav-ws/build
