@@ -1,1 +1,2 @@
 ./mav-ws/build
+*.pyc

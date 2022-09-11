@@ -13,14 +13,12 @@ from mavros_msgs.srv import SetMode, SetModeRequest
 """Control Functions
 	This module is designed to make high level control programming simple.
 """
-
-
 class gnc_api:
     def __init__(self):
         """This function is called at the beginning of a program and will start of the communication links to the FCU.
         """
         self.current_state_g = State()
-        self.current_pose_g = Odometry() #this is GPS message from nav_msg.msg
+        self.current_pose_g = Odometry() #this is GPS message from nav_msg.msg - may need to be modified to PoseStamped
         self.correction_vector_g = Pose()
         self.local_offset_pose_g = Point()
         self.waypoint_g = PoseStamped()
@@ -90,6 +88,10 @@ class gnc_api:
     def state_cb(self, message):
         self.current_state_g = message
 
+
+
+
+    """IF CURRENT MODIFICATIONS DONT WORK - CHANGE THIS FUNCTION"""
     def pose_cb(self, msg):
         """Gets the raw pose of the drone and processes it for use in control.
 
@@ -368,6 +370,39 @@ class gnc_api:
             rospy.logerr(CRED2 + "Takeoff failed" + CEND)
             return -1
 
+    def initialize_local_frame(self, coords, orientation): #add parameters for using world frame from mocap
+        """This function will create a local reference frame based on the starting location of the drone. This is typically done right before takeoff. This reference frame is what all of the the set destination commands will be in reference to."""
+        self.local_offset_g = 0.0 #this was initialized as odometry msg, may need to be modified
+
+        for i in range(30):
+            rospy.sleep(0.1)
+
+            q0, q1, q2, q3 = (
+                orientation[0],
+                orientation[1],
+                orientation[2],
+                orientation[3]
+            )
+
+            psi = atan2((2 * (q0 * q3 + q1 * q2)),
+                        (1 - 2 * (pow(q2, 2) + pow(q3, 2))))
+
+            self.local_offset_g += degrees(psi)
+            self.local_offset_pose_g.x += coords[0]
+            self.local_offset_pose_g.y += coords[1]
+            self.local_offset_pose_g.z += coords[2]
+
+        self.local_offset_pose_g.x /= 30.0
+        self.local_offset_pose_g.y /= 30.0
+        self.local_offset_pose_g.z /= 30.0
+        self.local_offset_g /= 30.0
+
+        rospy.loginfo(CBLUE2 + "Coordinate offset set" + CEND)
+        rospy.loginfo(
+            CGREEN2 + "The X-Axis is facing: {}".format(self.local_offset_g) + CEND)
+        
+    #leaving this here commented out for reference
+    '''
     def initialize_local_frame(self): #add parameters for using world frame from mocap
         """This function will create a local reference frame based on the starting location of the drone. This is typically done right before takeoff. This reference frame is what all of the the set destination commands will be in reference to."""
         self.local_offset_g = 0.0
@@ -398,8 +433,9 @@ class gnc_api:
         rospy.loginfo(CBLUE2 + "Coordinate offset set" + CEND)
         rospy.loginfo(
             CGREEN2 + "The X-Axis is facing: {}".format(self.local_offset_g) + CEND)
+    '''
 
-    def check_waypoint_reached(self, Pose, pos_tol=0.3, head_tol=0.01): # use pose data to update if waypoint reached 
+    def check_waypoint_reached(self, dronepose, pos_tol=0.3, head_tol=0.01): # use pose data to update if waypoint reached 
         """This function checks if the waypoint is reached within given tolerance and returns an int of 1 or 0. This function can be used to check when to request the next waypoint in the mission.
 
         Args:
@@ -413,13 +449,13 @@ class gnc_api:
         self.local_pos_pub.publish(self.waypoint_g)
 
         dx = abs(
-            self.waypoint_g.pose.position.x - self.current_pose_g.pose.pose.position.x
+            self.waypoint_g.pose.position.x - dronepose[0]
         )
         dy = abs(
-            self.waypoint_g.pose.position.y - self.current_pose_g.pose.pose.position.y
+            self.waypoint_g.pose.position.y - dronepose[1]
         )
         dz = abs(
-            self.waypoint_g.pose.position.z - self.current_pose_g.pose.pose.position.z
+            self.waypoint_g.pose.position.z - dronepose[2]
         )
 
         dMag = sqrt(pow(dx, 2) + pow(dy, 2) + pow(dz, 2))
