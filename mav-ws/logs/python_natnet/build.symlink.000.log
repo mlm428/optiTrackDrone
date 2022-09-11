@@ -1,0 +1,4 @@
+Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/python_natnet/cmake/python_natnetConfig-version.cmake
+Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/share/python_natnet/cmake/python_natnetConfig.cmake
+Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/pkgconfig/python_natnet.pc
+Symlinking /home/minidrone/repos/optiTrackDrone/mav-ws/devel/lib/python2.7/dist-packages/natnet/__init__.py

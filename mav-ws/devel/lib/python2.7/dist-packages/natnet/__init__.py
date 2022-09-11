@@ -1,0 +1,1 @@
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/python_natnet/lib/python2.7/dist-packages/natnet/__init__.py

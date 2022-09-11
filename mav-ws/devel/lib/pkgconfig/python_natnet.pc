@@ -1,0 +1,1 @@
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/python_natnet/lib/pkgconfig/python_natnet.pc

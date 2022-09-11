@@ -1,0 +1,1 @@
+/home/minidrone/repos/optiTrackDrone/mav-ws/devel/.private/natnet_msgs/share/common-lisp/ros/natnet_msgs/msg/_package_MarkerList.lisp

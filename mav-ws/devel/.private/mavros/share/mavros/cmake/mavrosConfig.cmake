@@ -116,7 +116,7 @@ if(NOT "/home/minidrone/repos/optiTrackDrone/mav-ws/src/mavros/mavros/include;/u
   endforeach()
 endif()
 
-set(libraries "mavros;/usr/lib/x86_64-linux-gnu/libboost_system.so;/usr/lib/x86_64-linux-gnu/libGeographic.so")
+set(libraries "mavros;/usr/lib/aarch64-linux-gnu/libboost_system.so;/usr/lib/aarch64-linux-gnu/libGeographic.so")
 foreach(library ${libraries})
   # keep build configuration keywords, target names and absolute libraries as-is
   if("${library}" MATCHES "^(debug|optimized|general)$")
