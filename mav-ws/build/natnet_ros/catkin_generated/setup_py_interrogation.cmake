@@ -1,7 +1,0 @@
-set(natnet_ros_SETUP_PY_SETUP_MODULE "distutils.core")
-set(natnet_ros_SETUP_PY_VERSION "0.2.1")
-set(natnet_ros_SETUP_PY_SCRIPTS "")
-set(natnet_ros_SETUP_PY_PACKAGES "natnet_ros")
-set(natnet_ros_SETUP_PY_PACKAGE_DIRS "src/natnet_ros")
-set(natnet_ros_SETUP_PY_MODULES "")
-set(natnet_ros_SETUP_PY_MODULE_DIRS "")

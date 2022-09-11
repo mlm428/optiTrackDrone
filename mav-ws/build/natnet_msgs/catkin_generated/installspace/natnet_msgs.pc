@@ -1,8 +1,0 @@
-prefix=/home/minidrone/repos/optiTrackDrone/mav-ws/install
-
-Name: natnet_msgs
-Description: Description of natnet_msgs
-Version: 0.1.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime geometry_msgs
